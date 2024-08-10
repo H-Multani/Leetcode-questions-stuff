@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0268-missing-number) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0387-first-unique-character-in-a-string) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0387-first-unique-character-in-a-string) |
 | [1542-consecutive-characters](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1542-consecutive-characters) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -52,4 +55,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0387-first-unique-character-in-a-string) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
