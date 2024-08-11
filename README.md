@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0371-sum-of-two-integers) |
+| [1013-fibonacci-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0387-first-unique-character-in-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2163-kth-distinct-string-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
