@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0283-move-zeroes) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2836-neither-minimum-nor-maximum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2836-neither-minimum-nor-maximum) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0268-missing-number) |
+| [2836-neither-minimum-nor-maximum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2836-neither-minimum-nor-maximum) |
 ## Two Pointers
 |  |
 | ------- |
