@@ -57,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0387-first-unique-character-in-a-string) |
 | [1542-consecutive-characters](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1542-consecutive-characters) |
