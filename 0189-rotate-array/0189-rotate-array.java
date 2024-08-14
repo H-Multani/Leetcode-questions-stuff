@@ -1,13 +1,19 @@
 class Solution {
     public void rotate(int[] nums, int k) {
         int n=nums.length;
-        int[] temp= new int[n];
+        int[] arr=new int[n];
 
         for(int i=0;i<n;i++){
-            temp[(i+k)%n]=nums[i];
+            // int index=i;
+            // index=index+k;
+            // index=index%n;
+            // arr[index]=nums[i];
+            arr[(i+k)%n]=nums[i];
         }
 
-        System.arraycopy(temp,0,nums,0,n);
+        for(int i=0;i<n;i++){
+            nums[i]=arr[i];
+        }
 
         return;
     }
