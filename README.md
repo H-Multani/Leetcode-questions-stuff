@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0268-missing-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0349-intersection-of-two-arrays) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0189-rotate-array) |
