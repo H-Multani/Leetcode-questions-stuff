@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1018-largest-perimeter-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0917-boats-to-save-people) |
+| [1018-largest-perimeter-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1018-largest-perimeter-triangle) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2058-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0917-boats-to-save-people) |
+| [1018-largest-perimeter-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1018-largest-perimeter-triangle) |
 | [2836-neither-minimum-nor-maximum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2836-neither-minimum-nor-maximum) |
 ## Two Pointers
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0917-boats-to-save-people) |
+| [1018-largest-perimeter-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1018-largest-perimeter-triangle) |
 ## Simulation
 |  |
 | ------- |
