@@ -3,8 +3,7 @@ class Solution {
         // insert posns could be from 0 to len-1, take those left and rt
         int left = 0, right = nums.length - 1;
         int posn = nums.length;
-        // int ans = right;// maan lo initially apan element end me rakhenge
-        // and har step par update karte chalenge wether mid wala target ke upar ho ya neehe
+        int ans = 0;// maan lo initially apan element start me rakhenge
         while (left <= right) {
             int mid = (left + right) / 2;
 
@@ -28,17 +27,23 @@ class Solution {
                 // right), so go right
                 left = mid + 1;
 
-                // also update ans
-                // ans=mid;
+                // also, since apan ko pata hai ab ki target ko mid wale element ke aage rakhna
+                // padega(since we are in this else if block), since apne ko target to mid ke
+                // aage rakhna padega, hence one possible position for target could be just
+                // after mid, ie at mid+1, since mid ke aage rakhna hi hai, toh mid+1 is a
+                // posible(maybe) position jaha rakh sakte, ab rakhenge ki nai vo loop update
+                // kar dega, but currently toh mid+1 is a possible correct position right
+
+                // so mid+1, is a possible posn jaha apan target ko rakh sakte hai, toh update
+                // ans as well, update to keep the possible position in ans
+                ans = mid + 1;
             } else {
                 // means apan ka mid target se bada hai, toh agar target ko insert karvana hai
                 // toh vo current wale element ke peeche hi lagega most probably(since sorted
                 // order chahiye right), toh right aane ka koi sense nai hai since target
                 // current wale se peeche hi lagega(ie to the left), so go left
 
-                right=mid-1;
-                // also update ans
-                // ans=mid;
+                right = mid - 1;
             }
         }
 
