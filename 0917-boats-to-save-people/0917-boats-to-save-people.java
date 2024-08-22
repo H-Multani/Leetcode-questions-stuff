@@ -13,7 +13,7 @@ class Solution {
             } else if (people[left] + people[right] <= limit) {
                 // means this combination of current lightest and current heaviest can be put on
                 // same boat, in such a case we need 1 boat more
-                // left na dright ko aage badha deo
+                // left and right ko aage badha deo
                 left++;
                 right--;
                 ans++;
