@@ -5,16 +5,19 @@ public class Solution extends VersionControl {
     public int firstBadVersion(int n) {
         int left = 1, right = n;
         int badver = n + 1;
+
         while (left <= right) {
-            int mid = left + ((right-left) / 2);
-
-            
-
+            int mid = left + ((right - left) / 2);
             // mid wala bad version hai kya
             if (isBadVersion(mid)) {
                 // true means current version is bad
                 // update current version
                 badver = mid;
+                // min funcn not used since, if mid ka value goes over int ka range(ie INT_MAX)
+                // then it returns INT_MIN, which will cause wrong answer error(see wrong
+                // testcase in submission, - me aa raha answer, its going over int range and
+                // going back to INT_MIN resulting in wrong answer)
+
                 // since current version is bad, ho sakta hai iske peeche wala koi version bad
                 // ho,
 
@@ -32,9 +35,9 @@ public class Solution extends VersionControl {
                 // current is not bad, means iske pehle wale saare versions are also not bad
                 // versions, so no sense in trying to find bad version in left side since all
                 // will be good versions, so go right side to find first bad version
-                
+
                 // overall go right side
-                left=mid+1;
+                left = mid + 1;
             }
         }
         return badver;
