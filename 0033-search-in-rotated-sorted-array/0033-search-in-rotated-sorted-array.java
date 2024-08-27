@@ -1,42 +1,39 @@
 class Solution {
     public int search(int[] nums, int target) {
-        // take left and right
-        int left = 0, right = nums.length - 1;
-        while (left <= right) {
-            int mid = (left + right) / 2;
-
-            if (nums[mid] == target) {
+        int left=0,right=nums.length-1;
+        while(left<=right){
+            int mid=(left+right)/2;
+            if(nums[mid]==target){
                 return mid;
             }
-            // so far normal
-
-            // now check which half is in sorted order
-            else if (nums[left] <= nums[mid]) {
-                // means left se mid tak sorted hai
-                // search if target can be present in the sorted part
-                if (target >= nums[left] && target < nums[mid]) {
-                    // means target can b found in left side
+            // whihc part is sorted
+            else if(nums[left]<=nums[mid]){
+                // left side is sorted
+                // kya apna target sorted side me hai???
+                if(target>=nums[left] && target<=nums[mid]){
+                    // means out target is in sorted side
+                    // ie left side
                     // go left
-                    right = mid - 1;
-                } else {
-                    // means target can not be found in the sorted part
-                    // go to the other side(right)
-                    // go right
-                    left = mid + 1;
+                    right=mid-1;
                 }
-            } else {
-                // means left se mid tak sorted nai hai, ie mid se right tak sorted part hai
-                // array ka
-                // search if target can be present in the sorted part
-                if (target <= nums[right] && target > nums[mid]) {
-                    // means target can b found in sorted part, ie the right side hence to find
-                    // target move to the right side
+                else{
+                    // target is not in sorted side
+                    // go to the other side. even after that side is not sorted
+                    // go rigt
+                    left=mid+1;
+                }
+            }
+            else if(nums[mid]<=nums[right]){
+                // right side is sorted
+                // kya apna target sorted side me hai???
+                if(nums[mid]<=target && target<=nums[right]){
+                    // nums[mid]<=target<=nums[right]
                     // go right
-                    left = mid + 1;
-                } else {
-                    // means target cannot be found in sorted part
-                    // so go to the other side, ie the left side, since sorted part me nai hai toh
-                    // unsorted wale half me hoga pakka
+                    left=mid+1;
+                }
+                else{
+                    // target not in sorted side
+                    // go to the other side, even if that side is not sorted
                     // go left
                     right=mid-1;
                 }
