@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0387-first-unique-character-in-a-string) |
 | [1542-consecutive-characters](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1542-consecutive-characters) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3396-valid-word](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3396-valid-word) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0234-palindrome-linked-list) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3447-clear-digits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
