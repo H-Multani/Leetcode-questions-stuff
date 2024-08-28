@@ -10,21 +10,22 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        ListNode curr=head;
-        ListNode nxt=head;
         ListNode ans=null;
+        ListNode curr=head;
 
-        while(nxt!=null){
-            // move nxt ahead
-            nxt=nxt.next;
-            // join curr to ans
+        while(head!=null){
+            // head ko aage badhao
+            head=head.next;
+            // curr node ko ans par bhejo
+            // set curr ka next to ans
             curr.next=ans;
-            // move ans ptr back to new node that is at curr
+            // ans ko curr par bhejo
             ans=curr;
-            // move curr back to prev list
-            curr=nxt;
+            // curr ko head par bhejo
+            curr=head;
         }
 
         return ans;
+
     }
 }
