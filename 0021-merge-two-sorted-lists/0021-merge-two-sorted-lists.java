@@ -1,57 +1,53 @@
 /**
  * Definition for singly-linked list.
  * public class ListNode {
- * int val;
- * ListNode next;
- * ListNode() {}
- * ListNode(int val) { this.val = val; }
- * ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        // the new list
-        ListNode ans = new ListNode(-1);
-        ListNode newlist = ans;
+        ListNode head=new ListNode(-1);
+        ListNode curr=head;
+        while(list1!=null && list2!=null){
+            if(list1.val<=list2.val){
+                // list 1 wala element chhota hai
+                // add this list1 wala element to our ans list
+                curr.next=list1;
+                // list 1 ko aage badhao
+                list1=list1.next;
+                //curr ko aage badhao
+                curr=curr.next;
+            }
+            else{
+                // list 2 wala element chhota hai
+                // add this list2 wala element to our ans list
+                curr.next=list2;
+                // list 2 ko aage badhao
+                list2=list2.next;
+                //curr ko aage badhao
+                curr=curr.next;
 
-        // iterate over both the lists an push elements
-        ListNode firstlist = list1;
-        ListNode secondlist = list2;
-        while (firstlist != null && secondlist != null) {
-            // if firstlist ka element chhota hai, toh usko connect karo pehle
-            if (firstlist.val <= secondlist.val) {
-                // new list ka next set to 1st ka node
-                newlist.next = firstlist;
-                // firstlist ko aage badha do
-                firstlist = firstlist.next;
-                // newlist ko bhi aage badha ho
-                newlist = newlist.next;
-            } else {
-                // new list ka next set to 2nd ka node
-                newlist.next = secondlist;
-                // secondlist ko aage badha do
-                secondlist = secondlist.next;
-                // newlist ko bhi aage badha ho
-                newlist = newlist.next;
             }
         }
+        // we are here means, list 1 and list 2 me se 1 list end ho chuki hai
+        // curr is at last element of the list that ended
 
-        // we here means one of the lists ended and newlist is at last node of the ended
-        // list now
-        // set newlist ka next to the the list that hasnt ended yet
-
-        // this is done only once since ek list end ho chuki hai, and connect karne ke
-        // bad jo list hai vo apne aap order me hogi since given is ki lists are
-        // themselves in sorted order
-        if(firstlist!=null){
-            // set newlist to firstlist ka node
-            newlist.next=firstlist;
-        }
-        if(secondlist!=null){
-            // set newlist to secondlist ka node
-            newlist.next=secondlist;
+        if(list1!=null){
+            // list 1 is not ended yet
+            curr.next=list1;
         }
 
-        return ans.next;
+        if(list2!=null){
+            // list 2 end nai hui hai
+            curr.next=list2;
+        }
+
+        // return head;
+        return head.next;
+
     }
 }
