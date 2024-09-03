@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0342-power-of-four) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0189-rotate-array) |
@@ -257,4 +259,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
