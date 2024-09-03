@@ -14,28 +14,35 @@
  * }
  */
 class Solution {
-     public static boolean isfound;
-     public static int traverse(TreeNode root, int currsum,int tgtsum){
-        if(isfound) return Integer.MIN_VALUE;
-        if(root==null) return Integer.MIN_VALUE;
+    public static boolean ans;
+    public static int solve(TreeNode root, int currsum, int target){
+        // base case
+        if(ans) return -1;
+        // if(ans) return Integer.MIN_VALUE;
+        if(root==null) return -1;
 
+        // current element ko le lenge
         currsum+=root.val;
-        int left=traverse(root.left,currsum,tgtsum);
-        int right=traverse(root.right,currsum,tgtsum);
 
-        if(left==Integer.MIN_VALUE && right==Integer.MIN_VALUE){
-            // means we are at leaf node, if reached target, return
-            if(currsum==tgtsum){
-                isfound=true;
+        // go left
+        int left=solve(root.left,currsum,target);
+        // go right
+        int right=solve(root.right,currsum,target);
+
+        // operation
+        if(left==-1 && right==-1){
+            // we are at leay node
+            if(currsum==target){
+                // path sum ml chuka hai
+                ans=true;
             }
         }
-
         return Integer.MAX_VALUE;
-
-     } 
+    }
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        isfound=false;
-        int ans=traverse(root,0,targetSum);
-        return isfound;
+        ans=false;
+        int temp=solve(root, 0,targetSum);
+
+        return ans;
     }
 }
