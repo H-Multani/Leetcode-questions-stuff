@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0112-path-sum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0112-path-sum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -238,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2132-convert-1d-array-into-2d-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
