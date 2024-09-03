@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0455-assign-cookies) |
+| [0739-daily-temperatures](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0890-lemonade-change) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0739-daily-temperatures) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3447-clear-digits) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
