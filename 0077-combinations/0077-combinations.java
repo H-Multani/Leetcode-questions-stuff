@@ -3,21 +3,30 @@ class Solution {
     public static List<List<Integer>> ans;
 
     public static void solve(int i, int n, int k, List<Integer> temp) {
-        // for the logic behind n+1, see previous accepted solution
-        // basically since we are using the n th value as well here, so we have to stop
-        // at n+1(like in arrays, idx stops at i=n-1, but we stop at i>n, since the i=n
-        // wala case par checking and then breaking hota tha, similarly here, i=n+1 par
-        // checking and breaking ho raha hai, so we stop at i>n+1)
-        // base case
-        if (i > n + 1)
-            return;
-        // operation
+        // base case ans operation
+        // agar ye(k==0) pehle nai chk karaya toh error aaega, how?, suppose i=n hai,
+        // iss
+        // case me bhi apan n wale element ko le sakthe hai na toh its similar to when
+        // we are in i=n-1 index of array, toh current wala lene ke baad dekhenge ki
+        // return kaha karvana hai, hence apan ko ye sabse pehle heck karana padega, in
+        // each call, even before we stop the recursive call(and return smth) we have to
+        // check if we already have k elements, bcoz if we do, then we straight return
+        // since we dont need any more elements
+
+        // now if we want ki pehle toh base case hi chahiye, then what we can do is
+        // instead of returning when we get i>n, we return when we get i>n+1, (like we
+        // break when i>arr.length in array), since here we have a posisble ans at
+        // i=n(due to the wording of the question), toh waha toh nai rok paenge, ek aage
+        // hi rokna padega, ill maybe try that after i submit this solution
         if (k == 0) {
             // we here means apne paas k elements bhar chuke hai temp me, push to ans
             ans.add(new ArrayList(temp));
             // since list added, hence return, iske aage apan aur explore nai kar sakte
             return;
         }
+        if (i > n)
+            return;
+
         // recursive calls
         // 2 options
         // option 1: take current element
