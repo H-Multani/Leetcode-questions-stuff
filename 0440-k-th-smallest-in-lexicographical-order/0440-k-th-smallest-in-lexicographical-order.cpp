@@ -1,7 +1,5 @@
 class Solution {
 public:
-// the soln i referred to 
-// https://youtu.be/pQ_BQ9J9p-c?si=4ZwB1khxW09R114d
     long long cnt(long long curr, long long next, long long n) {
         int currentcnt = 0;
         while (curr <= n) {
