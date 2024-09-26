@@ -7,6 +7,11 @@ public:
         // events = new vector<pair<int, int>>;
         events.clear();
         // events stores all the event times
+
+        // this whole storing in a vector thing works simply bcoz the cnstraints
+        // say that at most 1000 elements will be stored in vector, if it was
+        // like 10^5 or smth, this approach wouldnt have worked, in that case,
+        // kuch aur soln dhundo
     }
 
     bool book(int start, int end) {
@@ -58,11 +63,11 @@ public:
                 // dont add the booking and return false;
                 return false;
             }
-
         }
 
-        // we here means booking can be done, add the booking to vector and return true
-        events.push_back({start,end});
+        // we here means booking can be done, add the booking to vector and
+        // return true
+        events.push_back({start, end});
 
         return true;
     }
