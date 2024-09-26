@@ -6,7 +6,8 @@ public:
     MyCalendar() {
         // events = new vector<pair<int, int>>;
         events.clear();
-        // events stores all the event times
+        // events stores all the event times, initialize krne ke liye vector ko
+        // clr karo pehle toh
 
         // this whole storing in a vector thing works simply bcoz the cnstraints
         // say that at most 1000 elements will be stored in vector, if it was
