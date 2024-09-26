@@ -57,8 +57,9 @@ public:
                 // 4th->ab collides with se fully(ab is fully outside se),can be
                 // checked by s<b && a<e
 
-                // all these 3 break conditions can be checked by a simple check
+                // all these 4 break conditions can be checked by a simple check
                 // s<b && a<e, thats exactly whats written in the if stmt
+                // dry run this for better understanding
 
                 // we here means booking cant be done
                 // dont add the booking and return false;
