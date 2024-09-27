@@ -13,29 +13,33 @@ public:
 
     bool book(int start, int end) {
         // first chk kya current wale se already koi 2 overlap wale area me
-        // overlap hora?
-        for(auto it:overlaps){
-            if(max(start,it.first)<min(end,it.second)){
-                // triple overlap found, return false
+        // 3rd overlap hora?
+        for (auto it : overlaps) {
+            if (max(start, it.first) < min(end, it.second)) {
+                // triple overlap found, return false frm here direct
                 return false;
             }
         }
-
+        // chk the rest of the events now
         for (auto it : events) {
             int currstart = it.first;
             int currend = it.second;
 
-            // a better way to check the below condn, same condition, diff way
             // start < curr_end && curr_start < end
+            // a better way to check the above condn, same condition, diff way
             if (max(start, currstart) < min(end, currend)) {
-                // means overlap ho rha hai
+                // means overlap ho rha hai, double overlap
 
                 // the region of overlap is bw max(strt1,strt2) and
                 // min(end1,end2)
                 // ie region [ max(s1,s2),min(e1,e2) )
-                // in this region 2 events are overlapping, push the region to
-                // overlaps
+                // in this region 2 events are overlapping(causing double
+                // overlap), push the region to overlaps
 
+                //  no need to check this, since curr region (start,end) tk ke
+                //  liye already chk kar liye hai, if triple overlaps ho rha ki
+                //  nai, no need to chk again
+                
                 // before pushing the current region to overlaps, check if the
                 // region is already overlapping with some other region in the
                 // overlaps array, since if it does, that will mean that the
@@ -46,15 +50,15 @@ public:
                 currregion.first = max(start, currstart);
                 currregion.second = min(end, currend);
 
-                // chk if curent region is already overlapping with some region
-                for (auto it2 : overlaps) {
-                    if (max(currregion.first, it2.first) <
-                        min(currregion.second, it2.second)) {
-                        // means triple overlap occuring here
-                        // means this event cant be placed, return false
-                        return false;
-                    }
-                }
+                // // chk if curent region is already overlapping with some
+                // region for (auto it2 : overlaps) {
+                //     if (max(currregion.first, it2.first) <
+                //         min(currregion.second, it2.second)) {
+                //         // means triple overlap occuring here
+                //         // means this event cant be placed, return false
+                //         return false;
+                //     }
+                // }
                 // we here
                 // means no triple overlaps found, push the current 2 overlap
                 // region to overlaps array(since in this region, 2 events
