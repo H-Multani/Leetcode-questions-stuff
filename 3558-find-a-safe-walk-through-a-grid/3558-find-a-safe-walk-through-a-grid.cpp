@@ -31,18 +31,18 @@ public:
         // health ko, making sure that the biggest health stays at top and if
         // end me pohoch kar health +ve mil gai, return true, else return false
 
-        // if starting is 1, redce health by 1
+        // if starting is 1, reduce health by 1
         if (grid[0][0] == 1)
             health--;
-        // if health 0 pohoch gai toh return false
+        // if health reaches 0 return false
         if (health == 0)
             return false;
 
         // starting with index {0,0} and updated health(original value if
         // starting posn(0,0) pr 1 nai hai)
-        
+
         pq.push({health, {0, 0}});
-        // set currrent wala as visited
+        // set currrent location as visited
         visited[0][0] = true;
         // ab dijkstra wala loop chalao
         while (!pq.empty()) {
