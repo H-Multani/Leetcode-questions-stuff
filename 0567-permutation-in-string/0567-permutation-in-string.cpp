@@ -12,39 +12,49 @@ public:
         }
 
         int n = s1.size();
-        // apan ko s1 ke size ka substring chahiye s2 ke andar
-        // so s1 ke size ka substrings leke chalo s2 me, agar mil jaaye, toh
-        // return true, else if we reach end means apan ko substring nai mila
-        // return false
 
-        // chk upto s2.size -1 since n size ka har baari substring banaenge toh
-        // last substring will start frm s2.size()-n wala index, hence whi tak
-        // check kar rahe hai apan bas
-        for (int i = 0; i <= s2.size() - n; i++) {
-            string substring = s2.substr(i, n);
-            // get substring starting at index i and of size n
+        // since fixed window me search kar rhe the, hence can apply sliding
+        // window same approach use karenge ki n size ka window banaenge pehle
+        // toh, then check karenge
 
-            // substring ke saare values ek map me laga do, yehi freq directly
-            // chk karenge apan
+        // ek map bana lenge jo char ka freq store karega, and if we get n size
+        // ka window + freq map all keys(and values) same as s1 ka map, means
+        // apan ko mil gaya hai n size ka permutation s1 ka inside s2, in such
+        // case return true
+        unordered_map<char, int> s2_map;
 
-            unordered_map<char, int> substrmap;
-            for (auto it : substring) {
-                substrmap[it]++;
+        int left = 0, right = 0;
+        while (right < s2.size()) {
+            // current wale character ko map me daal do s2 ke
+            s2_map[s2[right]]++;
+
+            // if size of window is greater than n, means window not of correct
+            // size, shrink karo window ko
+            // size of window is right-left+1
+            while (right - left + 1 > n) {
+                // means window too big, shrink it
+                s2_map[s2[left]]--;
+                if (s2_map[s2[left]] == 0) {
+                    // means curr char ka freq 0 ho gaya, alag kar do map se
+                    s2_map.erase(s2[left]);
+                }
+
+                // left ptr ko aage badhao
+                left++;
             }
 
-            // check if both the substring wala map and s1 wala map are same, if
-            // they are same, means dono me har character ka freq same mila hai,
-            // ie we have found the reqd n size wala substring inside s2, in
-            // such a case return true, else chec the next substring
-            if (substrmap == s1_mpp) {
-                // means all char and their all freq are same, means substring
-                // is found inside s2, return true
-                return true;
-            }
+            // now we have window of n size, and the corresponding updated map
+            // s2 wala, if this s2 wala map same as s1 wala map, means current
+            // window is the permutation of s1 that we needed, in such case
+            // return true, else move on to the next window
+            if(s1_mpp==s2_map) return true;
+
+            // window aage badhao
+            right++;
         }
 
-        // we here means no substring of size n and permutation of s1 was found
-        // inside s2, in such case return false
+        // we here means koi bhi window me nai mila permutation s1 ka, hence return false
+
         return false;
     }
 };
