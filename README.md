@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0112-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1484-linked-list-in-binary-tree) |
 ## Design
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0112-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1484-linked-list-in-binary-tree) |
 ## Data Stream
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0112-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0684-redundant-connection) |
