@@ -18,8 +18,8 @@ class Solution {
         if(ans) return 't';
         return 'f';
     }
-    char logical_not(vector<char> values){
-        if(values[0]=='t') return 'f';
+    char logical_not(char values){
+        if(values=='t') return 'f';
 
         return 't';
     }
@@ -82,7 +82,7 @@ public:
                     // logical NOT nikalna hai
                     // not nikalne ke liye apan ko vector nai milega, not hota
                     // hai T or F ka, invert kar deta hai bs
-                    op = logical_not(t_or_f);
+                    op = logical_not(t_or_f[0]);
                 }
 
                 // ab ye jo op mila hai, isko stack me store karva denge, so
