@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0657-robot-return-to-origin) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1542-consecutive-characters](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1542-consecutive-characters) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1013-fibonacci-number) |
+| [1197-parsing-a-boolean-expression](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
