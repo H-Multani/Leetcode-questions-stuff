@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1542-consecutive-characters](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1542-consecutive-characters) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0078-subsets) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
