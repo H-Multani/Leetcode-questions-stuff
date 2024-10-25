@@ -23,6 +23,7 @@ public:
                 // last ke 2 characters(works only when we have stuff like /a/b
                 // etc, not when we have /abc/erv etc) trim karke, remaining
                 // substring nikalo,
+
                 // last ke 2 since we need posn of last '/' basically
                 // iske aage wala saara substring ignore maar do,
                 // bacha kucha substring nikalo
@@ -37,7 +38,7 @@ public:
                 // this substring can be a folder,
                 // if ye substring set me present hai, means ye substring folder
                 // hai, and that means original jo string thi, vo ek subfolder
-                // thi bas, toh matlab current banda ek subfolder hai, and its
+                // thi bas, toh matlab original banda ek subfolder hai, and its
                 // not a folder, toh boolean value ko true set kar do
                 if (st.find(it) != st.end()) {
                     issubfolder = true;
@@ -45,7 +46,7 @@ public:
                 }
             }
 
-            // if current banda wasnt a sub folder, then add that to result
+            // if current(original) banda WASNT a sub folder, then add that to result
             // since sub folders ko remove karna tha apan ko
             if (!issubfolder) {
                 ans.push_back(original);
