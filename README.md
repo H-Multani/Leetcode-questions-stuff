@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0042-trapping-rain-water) |
 | [0241-different-ways-to-add-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1013-fibonacci-number) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2755-extra-characters-in-a-string) |
 ## Recursion
 |  |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0054-spiral-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2411-spiral-matrix-iv) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3558-find-a-safe-walk-through-a-grid) |
