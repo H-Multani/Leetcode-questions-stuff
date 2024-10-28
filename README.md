@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0906-walking-robot-simulation) |
+| [0907-koko-eating-bananas](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1019-squares-of-a-sorted-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0907-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
