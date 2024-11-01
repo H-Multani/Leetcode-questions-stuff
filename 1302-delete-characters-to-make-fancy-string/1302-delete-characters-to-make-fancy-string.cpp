@@ -8,18 +8,16 @@ public:
             if (s[i] == s[i + 1]) {
                 cnt++;
             } else {
-                if (cnt > 0) {
-                    int reqd = min(2, cnt);
-                    while (reqd--) {
-                        ans += s[i];
-                    }
+                int reqd = min(2, cnt);
+                while (reqd--) {
+                    ans += s[i];
                 }
                 cnt = 1;
             }
         }
         int reqd = min(2, cnt);
         while (reqd--) {
-            ans += s[n-1];
+            ans += s[n - 1];
         }
 
         return ans;
