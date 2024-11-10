@@ -1,11 +1,20 @@
 class Solution {
 public:
     // addn and removal ke function me zyada difference nai hai, man kare toh
-    // merge kar dena 
+    // merge kar dena
 
     // add current element to window
     void addinwndow(int x, vector<int>& vec) {
         for (int i = 0; i < 32; i++) {
+
+            // condn x>>i, means x ko i times rt shift kiya, toh ab original x
+            // ka ith bit comes to the rightmost posn(it becomes the least
+            // significant bit LSB)
+            // iss number ka AND kiya 1 se
+            // if the 1 th bit was set means ye hoga ki 1 && 1 =>1
+            // if the 1 th bit was not set means ye hoga ki 0 && 1 =>0
+            // isse seedhe pata lag jayega ki original x ka i th bit set hai ki
+            // nai
             if ((x >> i) & 1 == 1) {
                 // means i th bit set hai, update karo
                 // vec me i th bit par cnt increase krdo
@@ -26,15 +35,15 @@ public:
     }
 
     // get current number from bitstore
-    int getdecimalno(vector<int>& vec){
+    int getdecimalno(vector<int>& vec) {
         // current window ke saare nos ka or nikalo
-        int ans=0;
+        int ans = 0;
 
-        for(int i=0;i<32;i++){
-            if(vec[i]>0){
+        for (int i = 0; i < 32; i++) {
+            if (vec[i] > 0) {
                 // means i th posn par 1 hai, toh ans ke i th posn kar 1 laga do
                 // i th posn ka 1 will be 1 left shift i times
-                ans=ans|(1<<i);
+                ans = ans | (1 << i);
             }
         }
 
