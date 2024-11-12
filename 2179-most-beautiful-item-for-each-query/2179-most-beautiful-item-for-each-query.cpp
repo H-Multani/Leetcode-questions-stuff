@@ -28,9 +28,19 @@ public:
             beauty.push_back(maxm);
         }
 
+        // stores ans of already solved queries
+        unordered_map<int, int> mpp;
+
         // har query par iterate krke ans nikalo
         for (auto it : queries) {
             // current query is it
+
+            // agar current query ka ans mil chuka hai toh yehi se return krdo
+            if (mpp.find(it) != mpp.end()) {
+                // curr query already calculate kar chuke hai, return yehi se
+                ans.push_back(mpp[it]);
+                continue;
+            }
 
             // need price <=
             int reqdprice = it;
@@ -68,6 +78,12 @@ public:
             } else
                 // maxm beauty upto this index is maxm beauty[result]
                 ans.push_back(beauty[result]);
+
+            // current query ka ans mil chuka hai ab, map me update karo so that
+            // thoda time bache
+            mpp[it] = ans.back();
+            // current query ka ans abhi push kiya hai, toh ans is at the
+            // ans.back()
         }
 
         return ans;
