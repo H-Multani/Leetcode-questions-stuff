@@ -10,16 +10,21 @@ public:
 
         // possible hai ki price kam ho lekin beauty zyada ho, iss case ko
         // handle krne ke liye sorted list me leke chalo ki iss idx tak maxm
-        // beauty ye mili hai, and is beauty ka price <=current bande ka price
+        // beauty ye mili hai, and is beauty ka price <=current index wale bande
+        // ka price
         vector<int> beauty;
+        // basically stores maxm beauty upto the current index(in sorted price
+        // list)
+        // toh current idx ka maxm beauty jo bhi ho, is beauty ke corresponding
+        // jo price hoga vo price<=price at current idx hoga, woh best beauty
+        // milega
 
         // index 0 tak beauty is first element ki beauty
         beauty.push_back(items[0][1]);
 
         for (int i = 1; i < items.size(); i++) {
-            // iss index tak maxm beautyis
+            // iss index tak maxm beauty is
             int maxm = max(beauty[i - 1], items[i][1]);
-
             beauty.push_back(maxm);
         }
 
@@ -40,6 +45,8 @@ public:
                 if (items[mid][0] <= reqdprice) {
                     // means current item ka price reqd se less than or = hai
                     // possible ans
+                    // toh iska index ans me rakh lo, iss index par maxm beauty
+                    // could be our ans
                     result = mid;
                     // to find maxm beauty, go right, since valid price mil
                     // chuka hai, ab maxm beauty chahiye
@@ -49,13 +56,17 @@ public:
                     r = mid - 1;
                 }
             }
-            // iss result price tak jo bhi maxm beauty wala mila hai ans me push
+            // now we have a result index, iss index ka price<=reqdprice hai,
+            // iske aage jayenge toh price higher hi milega
+
+            // iss result index tak jo bhi maxm beauty wala mila hai ans me push
             // krdo
 
             // agar -1 hai result means ans nai mila in such case push 0
             if (result == -1) {
                 ans.push_back(0);
             } else
+                // maxm beauty upto this index is maxm beauty[result]
                 ans.push_back(beauty[result]);
         }
 
