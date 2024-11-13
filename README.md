@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2836-neither-minimum-nor-maximum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2836-neither-minimum-nor-maximum) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0907-koko-eating-bananas) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2836-neither-minimum-nor-maximum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
