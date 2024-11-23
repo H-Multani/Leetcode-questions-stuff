@@ -33,22 +33,35 @@ public:
 
                     // after swapping, ab previously empty space par stone aa
                     // jaega, toh emptyidx aage badhao, to get emptyidx to the
-                    // new empty space, also ab previously stone wale space par
+                    // next empty space, also ab previously stone wale space par
                     // empty ho jaega, toh stoneidx bhi aage badha do
                     // basically dono idx ko aage badha do
+
                     emptyidx--;
                     stoneidx--;
                 } else if (ans[row][col] == '*') {
-                    // empty idx ko curr location se 1 opar rakh do
+                    // means iss idx par apan ko obstacle mil gaya hai
+
+                    // koi bhi iske upar aane wala stone iss obstacle ke neeche
+                    // nai jaayega, ie agar stone neeche aaya toh iss obstacle
+                    // ke upar rahega, hence stoneidx ko just stone ke upar wale
+                    // idx par rakh do empty idx ko curr location se 1 opar rakh
+                    // do
                     emptyidx = row - 1;
+
                     // stone yaha bhi nai mila, stoneidx aage badhao
                     stoneidx--;
                 } else {
                     // means ans[row][col]=='.'
-                    // yaha stone nai hai, sone idx aage badhao
+                    // ie yaha empty space mili hai
+                    // now we dont set emptyidx to this posn, since emptyidx is
+                    // already at empty index nearest to bottom
+                    // yaha stone nai hai, stoneidx aage badhao
                     stoneidx--;
                 }
             }
+            // current column me se jitne stones gravity se neece girne the gir
+            // gaye, agle colum par jao
 
             // for (auto it : ans) {
             //     for (auto it2 : it) {
