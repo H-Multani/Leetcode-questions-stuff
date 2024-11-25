@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0787-sliding-puzzle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0890-lemonade-change) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0054-spiral-matrix) |
+| [0787-sliding-puzzle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0787-sliding-puzzle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2089-maximum-matrix-sum) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0684-redundant-connection) |
+| [0787-sliding-puzzle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1484-linked-list-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2121-find-if-path-exists-in-graph) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
