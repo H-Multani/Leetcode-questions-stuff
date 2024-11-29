@@ -18,18 +18,9 @@ public:
         if (grid[0][1] > 1 && grid[1][0] > 1)
             return -1;
 
-        // dist vector
+        // result vector, kon naam badle ab
         vector<vector<int>> distance(m, vector<int>(n, -1));
-        // all nodes at dist -1 initially, -1 indicates ki uss node tak abhi
-        // apan nai pahuche hai
         distance[0][0] = 0;
-        // (0,0) is at dist 0 frm (0,0);
-
-        // yehi par phatega, else to-fro karte karte time badha sakte hai apan
-
-        // dijkstra ke liye pq bana do
-        // pq stores <time frm curr node to reqd node,<x ccod of read node, y
-        // coode of reqd node >>
         priority_queue<pipii, vector<pipii>, greater<pipii>> pq;
         // (0,0) ko push kardo pq me, since (0,0) is at time 0 hence
         pq.push({0, {0, 0}});
@@ -46,7 +37,8 @@ public:
             int j = pq.top().second.second;
             pq.pop();
 
-            if(i==m-1 && j==n-1){
+            // ans yehi mil gaya return kardo
+            if (i == m - 1 && j == n - 1) {
                 return currdist;
             }
 
@@ -117,7 +109,7 @@ public:
             //     }
             // }
 
-            // check for all (i-1,j),(i+1,j),(i,j-1),(i,j+1)
+            // check for all (i-1,j),(i+1,j),(i,j-1),(i,j+1) 4 directions
             for (auto it : direction) {
                 int newi = i + it[0];
                 int newj = j + it[1];
