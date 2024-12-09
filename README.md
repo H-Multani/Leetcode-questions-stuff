@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3427-special-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3427-special-array-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3427-special-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1940-maximum-xor-for-each-query](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1940-maximum-xor-for-each-query) |
+| [3427-special-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3427-special-array-ii) |
 ## Trie
 |  |
 | ------- |
