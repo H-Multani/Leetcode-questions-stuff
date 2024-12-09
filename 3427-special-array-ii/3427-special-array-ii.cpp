@@ -20,13 +20,6 @@ public:
         // aane me 1 baar mereko parity me error dikha hai(at idx 1 and 2 in
         // nums)
 
-        // NOTE
-        // ye agar idx i and i-1 me problem hai toh uska count will be stored in
-        // parity[i], hence queries me diye hue ranges ko checking time start
-        // checking frm start+1, since i ka pair i-1 se bana hai and apan
-        // 'start' idx se chalu karenge toh 'start-1' is not valid since its out
-        // of range, and also possible that its not valid idx if start=0
-
         int n = nums.size();
         vector<int> parity(n, 0);
         // parity[0]=0 since idx 0 ke liye idx -1 toh hai nai apne paas, hence 0
@@ -42,18 +35,24 @@ public:
 
         // ab zara socho we have query start=4,end=7 and uss part ka parity
         // array like {...,3(idx=4),3,3,3(idx=7),...}
-        // we can see ki idx 5(start+1) se idx 7 tak me parity ka value change
-        // nai hua hai means idx 5 se leke 7 tak me saare elements ka parity in
+        // we can see ki idx 4 se idx 7 tak me parity ka value change
+        // nai hua hai means idx 4 se leke 7 tak me saare elements ka parity in
         // order hai, in such case query ka output will be true, since ye
         // subarray special hai
 
         // for eg if array like {2,2,3,4,5,6,7,9}, parity array be like
         // {0,1,1,1,1,1,1,2}, ab let query be start=1 to end=5
-        // toh parity[start+1]=1, parity[end]=1, ab dono parities ke value same
+        // toh parity[start]=1, parity[end]=1, ab dono parities ke value same
         // hai means ye wala subarray (ie frm idx 1 to 5) will be a special
         // subarray, hence iss query ka ans=true
         // cross checking, subarray frm idx 1 to 5 is {2,3,4,5,6}, this is
         // clearly a special, toh matlab the logic works
+
+        // ab this works since parity[start] is ki 0 se start idx tak me kitne
+        // violations mile hai, and parity[end] is ki 0 se end idx tak me kitne
+        // violations mile hai
+        // hence agar dono ka value same hai means start idx se end idx ke beech
+        // me koi violation nai mila hai apan ko,yehi core logic hai
 
         // ab queries par iterate kardo
         vector<bool> ans;
@@ -61,14 +60,14 @@ public:
             int start = it[0];
             int end = it[1];
 
-            // ab parity array me start+1 ka value and end ka value check karo,
+            // ab parity array me start ka value and end ka value check karo,
             // agar same hai means array is special, in such case return true
             // else false
 
             // edge case, if start==end, means reqd subarray me 1 element hai,
             // in such case also subarray is special, in such case return true
 
-            if ((start + 1 < n && parity[start] == parity[end]) || start==end)
+            if ((parity[start] == parity[end]) || start == end)
                 ans.push_back(true);
             else
                 ans.push_back(false);
