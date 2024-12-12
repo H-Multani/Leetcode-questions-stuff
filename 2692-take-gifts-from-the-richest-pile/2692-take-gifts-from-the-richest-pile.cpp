@@ -7,17 +7,16 @@ public:
         for (auto i = 0; i < gifts.size(); i++) {
             pq.push({gifts[i], i});
         }
-        long long ans = 0;
 
         // loop until k turns end
         while (k--) {
-            // current maxm wala top par hoga, uss pile se nikalo
+            // current maxm wala top par hoga, usse pile se nikalo
             int val = pq.top().first;
             int idx = pq.top().second;
             pq.pop();
 
             // now take val-sqrt(val) jitne gifts
-            // remaining gifts=>sqrt(val)
+            // remaining gifts=> sqrt(val)
             // ab iss val ko update karo val becomes sqrt(val)
             val = sqrt(val);
 
@@ -30,6 +29,7 @@ public:
         // at each idx,hence in saare ka sum kardo bas since that is what is
         // needed
 
+        long long ans = 0;
         while (!pq.empty()) {
             ans += pq.top().first;
             // since pq.top().first jitne gift bache hai ab ans me add kardo
