@@ -85,13 +85,30 @@ public:
             // {2,3,4,3,3}
             // overall 15 subarrays that are valid ie 5*(5+1)/2, the 5 is the
             // no. of elements in the window
-            // yehi add kardo ans me
-            int no_of_elements=r-l+1;
-            // ans+=(no_of_elements)*(no_of_elements+1)/2;
-            ans+=no_of_elements;
-            cout<<l<<" to "<<r<<endl;
 
-            // window aage badhao, 
+            // this logic isnt working, ho kya rha hai ki apan same subarrays ko
+            // multiple times count krre hai(dry run krke dekho samaj me aa
+            // jaega),which is wrong, so better approach is (aisa ek baar
+            // pehele koi questn me bhi kiya tha), ki for current window(which
+            // starts with element 2), se bas vo subarrays count karo jo iss 2
+            // se start hore hai ie count only
+            // {2},{2,3},{2,3,4},{2,3,4,3},{2,3,4,3,3}, ie 5 subarrays= no of
+            // elements in the window, ye logic works and also gave me the AC so
+            // noixe ig
+
+            // exact reason as to why this works???, mai note me likh dunga the
+            // quesn number jiss me ye approach last use kiya tha(ie adding only
+            // those subarrays jo 'L' wale element se start hore)/ or agar
+            // editorial me kuch milega reasoning to bhi note me likh dunga
+
+            // all that matters is it works
+
+            // yehi add kardo ans me
+            int no_of_elements = r - l + 1;
+            ans += no_of_elements;
+            cout << l << " to " << r << endl;
+
+            // window aage badhao,
             r++;
         }
 
