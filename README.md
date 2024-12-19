@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0780-max-chunks-to-make-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0859-design-circular-deque) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0780-max-chunks-to-make-sorted) |
 | [0917-boats-to-save-people](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1019-squares-of-a-sorted-array) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Greedy
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0670-maximum-swap) |
+| [0780-max-chunks-to-make-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0957-minimum-add-to-make-parentheses-valid) |
