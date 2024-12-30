@@ -5,10 +5,17 @@ public:
             return 0;
 
         // nums[n-1];
+
+        // 5 options for current element
+        // op1 lagao bss
         int val1 = INT_MAX;
+        // op2 lagao bss
         int val2 = INT_MAX;
+        // op1 lagao phir op2 lagao
         int val3 = INT_MAX;
+        // op2 lagao phir op1 lagao
         int val4 = INT_MAX;
+        // kuch bhi mat lagao
         int val5 = INT_MAX;
 
         if(memo[op1][op2][n]!=-1) return memo[op1][op2][n];
