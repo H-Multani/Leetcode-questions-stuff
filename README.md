@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1019-squares-of-a-sorted-array) |
+| [1025-minimum-cost-for-tickets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1256-rank-transform-of-an-array) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1013-fibonacci-number) |
+| [1025-minimum-cost-for-tickets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1025-minimum-cost-for-tickets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2164-two-best-non-overlapping-events) |
