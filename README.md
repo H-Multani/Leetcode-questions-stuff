@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2586-longest-square-streak-in-an-array) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2434-design-a-number-container-system](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2434-design-a-number-container-system) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0731-my-calendar-ii) |
+| [2434-design-a-number-container-system](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
