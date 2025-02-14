@@ -32,32 +32,40 @@ public:
 
         // now agar list empty bhi nai hai and num 0 bhi nai hai toh last number
         // leke multiply krke add kardo
-        // basically prefix[n-1]*num karke add kardo prefix me
+        // basically prefix[n-1]*num karke add kardo prefix vector me
         prefix.push_back(prefix[prefix.size() - 1] * num);
     }
 
     int getProduct(int k) {
 
-        // ab yaha 2 case hai either k<n or k>n
+        // ab yaha 3 case hai either k<n or k>n or k==n
 
+        // case 1
         // agar k>n means peeche kahi 0 aaya hoga uss time apan ne array clear
         // kar diya hoga, toh vo 0 agar hota yaha toh overall product 0 hi aata
-        // numbers ka since questn always says ki elements always rahenge
+        // numbers ka since questn always says ki elements always rahenge,
+        // nothing to really thing abt, just ek adh example par run krke dekh
+        // lena aa jaega samajh me(2 vector maintain krna, prefix wala and
+        // element wala aur kaat te jana aa jaega samajh me )
 
         // uss case me 0 return krdo
         if (prefix.size() < k)
             return 0;
 
+        int n = prefix.size();
+        // case 2
+        // edge case, if n==k, simply return prefix[n-1]
+        if (n == k)
+            return prefix[n - 1];
+
+        // case 3
         // otherwise, product of last k elements is prefix[n-1]/prefix[n-k-1],
         // since prefix[n-k-1] is product of all elements frm start upto n-k-1
         // th idx, and prefix[n-1] is product of all elements frm start to n-1
         // th idx. toh product of only k elements frm end will be product of all
         // frm 0 to n-1 / product of all frm 0 to n-k-1
-        // isko dry run karna aa jayega samajh me 
-        int n=prefix.size();
+        // isko dry run karna aa jayega samajh me
 
-        // edge case, if n==k, simply return prefix[n-1]
-        if(n==k) return prefix[n-1];
 
         // for(auto it:prefix){
         //     cout<<it<<" ";
@@ -66,8 +74,7 @@ public:
         // cout<<prefix[n-1]<<" "<<prefix[n-k-1]<<endl;
         // cout<<endl;
 
-        
-        return prefix[n-1]/prefix[n-k-1];
+        return prefix[n - 1] / prefix[n - k - 1];
     }
 };
 
