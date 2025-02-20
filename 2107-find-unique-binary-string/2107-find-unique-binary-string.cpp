@@ -9,17 +9,17 @@ public:
         // possible ans bhejna hai bass, questn says ki any possible ans bhej do
         // lekin mai bss first possible ans bhej rha
 
-        // base case
         // minor optimization, agar ans mil chuka hai return frm here itself,
-        // aage mt chk kro
+        // aage mt chk kro(save time)
         if (!ans.empty())
             return;
+        // base case
         if (idx >= n) {
             // means ek possible answer ready hai, 2 options hai yaha
 
             // option 1
             // the answer is already in the set, means its useless to us since
-            // we already have it
+            // we already have it in nums and we needed new answer
 
             // option 2, currans string is not in set means new string hai that
             // does not appear in nums, this is our answer
@@ -37,8 +37,8 @@ public:
             return;
         }
 
-        // now apne paas 2 options hai current bande ke liye, either current
-        // banda becomes 0 or becomes 1, 2 cases hai dono dekho
+        // now apne paas 2 options hai current idx ke bande ke liye, either
+        // current banda becomes 0 or becomes 1, 2 cases hai dono dekho
 
         // simple backtracking, try, explore, undo
 
@@ -52,6 +52,7 @@ public:
         // ab 0 bana kar dekh liya
 
         // ab 1 bana kar dekho curr bande ko
+        // TRY
         currans[idx] = '1';
         // EXPLORE
         solve(idx + 1, currans);
@@ -71,8 +72,9 @@ public:
 
         // nums size ka temporary string banao, which will store all possible
         // asnwers and will be manipulated to make all the possible answers
+        // recursively
         string curr = "";
-        // intially saare 'a' bhar do
+        // intially saare 'a' bhar do as placeholder value
         for (int i = 0; i < n; i++)
             curr += 'a';
 
