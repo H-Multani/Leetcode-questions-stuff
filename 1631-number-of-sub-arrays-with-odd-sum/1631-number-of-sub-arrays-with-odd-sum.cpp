@@ -33,9 +33,8 @@ public:
             } else {
 
                 // means 0 se yaha tak ka prefix sum is even, must have been
-                // odd+odd=even wala case, toh iss case me oddcnt jitne
-                // subarrays banenge(pehle hi bane honge prefix sum of odd ttl,
-                // seedhe seedhe add karo), hence add kardo ans me
+                // odd+even=odd wala case, toh iss case me oddcnt jitne
+                // subarrays banenge,hence add kardo ans me
                 ans += oddcnt;
 
                 // also current wala prefix sum even hai toh evencnt increase
