@@ -1,9 +1,14 @@
 class Solution {
 public:
-    int solve(int j, int k, vector<int>& arr, unordered_map<int, int>& mpp) {
+    int solve(int j, int k, vector<int>& arr, unordered_map<int, int>& mpp,
+              vector<vector<int>>& memo) {
         // target nikalo, ie next element j and k ke pehle kon hoga, such that
         // arr[i]+arr[j]=arr[k] and i<j<k, ie target=arr[i]=arr[k]-arr[j]
         int target = arr[k] - arr[j];
+
+        // agar current j,k ke liye soln already hai toh yehi se return kardo
+        if (memo[j][k] != -1)
+            return memo[j][k];
 
         // kya ye target exist bhi karta hai??
         if (mpp.find(target) != mpp.end() && mpp[target] < j) {
@@ -19,7 +24,11 @@ public:
 
             // and jo bhi yaha se aayega will be the length of fibonacci
             // sequence we could make, hence return kardo +1 karke
-            return solve(i, j, arr, mpp) + 1;
+
+            // ab jo solution aayega it will be answer for memo[j][k] toh vo
+            // store karlo
+            memo[j][k] = solve(i, j, arr, mpp, memo) + 1;
+            return memo[j][k];
 
             // the +1 is to account for the curent k th wala banda
 
@@ -37,6 +46,10 @@ public:
         // since that l wala idx is taken care of already, and we know ki j and
         // k are in fibonacci, toh we return 2 from here, since yaha se aur aage
         // 2 se zyada size ka fibonacci sequence nai banne wala
+
+        // yaha par bhi memo me store karlo, since ye 2 bhi answer hoga for
+        // memo[j][k], hence update memo
+        memo[j][k] = 2;
         return 2;
     }
     int lenLongestFibSubseq(vector<int>& arr) {
@@ -50,6 +63,12 @@ public:
 
         int ans = 0;
 
+        // apan memoize kar sakte hai soln ko, yaha 2 cheez change hori hai, ie
+        // j and k, toh 2D memo bana lenge,simply, and agar memo me answer hai
+        // pehle toh wahi se return kardege, nai toh explore kardenge
+        vector<vector<int>> memo(n, vector<int>(n, -1));
+        // -1 indicate ki memo[j][k] ke liye koi soln nai mila hai abhi tkk
+
         // 2 for loops for j and k
 
         // start j frm 1 since recursive funcn me peeche wale idx par jayenge to
@@ -61,7 +80,7 @@ public:
                 // are in fibonacci and i<j<k
 
                 // ab yaha se recursively fibonacci banane me length kitna aaya
-                int length = solve(j, k, arr, mpp);
+                int length = solve(j, k, arr, mpp, memo);
 
                 // this length can be ans, update ans
 
@@ -71,6 +90,10 @@ public:
                     ans = max(ans, length);
             }
         }
+
+        // memoize kar diya hai soln ko apne hisaab se maine, since recursive
+        // funcn me 2 cheez change hori thi which was j and k, hence memo bhi 2D
+        // banaya tha, and recursive funcn me bhi return karvane se pehle memo update karvaya hai 
 
         return ans;
     }
