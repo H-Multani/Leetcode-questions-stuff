@@ -11,8 +11,8 @@ public:
 
         // memo[i][j] means shortest common supersequence of length i(of s1) and
         // j(of s2) respectively an iterate kardo
-        for (int i = 0; i < m+1; i++) {
-            for (int j = 0; j < n+1; j++) {
+        for (int i = 0; i < m + 1; i++) {
+            for (int j = 0; j < n + 1; j++) {
                 // bottom up waka logic likh do ab
 
                 // agar dono me se ek bhi idx 0 par hai toh bache wale idx
@@ -24,7 +24,7 @@ public:
                 }
                 // agar dono string ke idx me common char hai toh ek baar add
                 // karo bass
-                else if (s1[i-1] == s2[j-1]) {
+                else if (s1[i - 1] == s2[j - 1]) {
                     // +1 to add the character once
                     memo[i][j] = 1 + memo[i - 1][j - 1];
                     // then solve funcn me we used to visit the (i-1,j-1), since
@@ -56,6 +56,14 @@ public:
         // since apan i and j ko string end se chalu krre hai toh, characters
         // ulte dalenge, ie baad me aane wala pehle dalega, toh return krne se
         // pehle string ko reverse kardena
+
+        // yhe while loop ka logic is similar to bottom up wala logic, exact
+        // same hai thode changes ke satth, bas memo banate time apan +1 kar rhe
+        // the, yaha uss +1 ke jagah character daal dena hai, thats all
+
+        // also memo me jo minm wale ke liye +1 char le rhe the, vo ab 2 cases
+        // banenge, since length ka khel nai bacha ab yaha, char bhi sahi daalna
+        // hai, toh jo chhota size kabanda hoga uska character dalega thats all
 
         while (i > 0 && j > 0) {
             //  ye chalega, yaha cases banao ab
@@ -110,11 +118,11 @@ public:
         // iss case me jitne bache characters hai seedhe seedhe ans me dalenge,
         // toh daal do
         while (i > 0) {
-            ans += s1[i-1];
+            ans += s1[i - 1];
             i--;
         }
         while (j > 0) {
-            ans += s2[j-1];
+            ans += s2[j - 1];
             j--;
         }
 
@@ -123,7 +131,7 @@ public:
         // rahe hai toh string bhi ulti hi baneggi na, same with j
 
         // toh string ko reverse kardo, phir return kardena
-        reverse(ans.begin(),ans.end());
+        reverse(ans.begin(), ans.end());
 
         return ans;
     }
