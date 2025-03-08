@@ -7,7 +7,8 @@ public:
         // substring me kitne colour karne padenge count karlo, jo bhi minm
         // count ho return kardo
 
-        // start from left most side at idx 0
+        // start from left most side at idx 0, (left,right) will be the k size
+        // ka substring
         int left = 0, right = k;
         int ans = INT_MAX, n = blocks.size();
 
@@ -27,15 +28,16 @@ public:
             for (int i = left; i < right; i++) {
                 // agar white hai curent wala toh colour karna padega, count
                 // karlo
-                if (blocks[i]=='W') cnt++;
+                if (blocks[i] == 'W')
+                    cnt++;
             }
-            cout<<cnt<<endl;
 
             // ans update kardo, minm count chahiye apan ko
-            ans=min(ans,cnt);
+            ans = min(ans, cnt);
 
             // windo aage badha do
-            left++;right++;
+            left++;
+            right++;
         }
 
         // ab jo bhi ans aaya return kardo
