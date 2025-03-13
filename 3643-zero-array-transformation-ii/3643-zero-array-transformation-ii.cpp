@@ -17,7 +17,7 @@ public:
             if (end + 1 < n)
                 diff[end + 1] -= val;
 
-            // thats all folks ab next query iterate karo
+            // thats all folks ab next query iterate karo, thats the diff array technique
         }
 
         // after all queries have been iterated, prefix sum nikalo diff array ka
