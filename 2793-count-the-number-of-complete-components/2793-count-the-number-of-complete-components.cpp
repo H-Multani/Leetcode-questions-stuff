@@ -146,8 +146,8 @@ public:
             // it[0] and it[1] ke beech me edge hai toh dono ka super parent
             // common hoga since they are already connected(prev loop)
 
-            // toh dono se koi bhi ek leke uss super parent ke against edgecnt+1
-            // kardo
+            // toh dono se koi bhi ek leke uske super parent ke against
+            // edgecnt+1 kardo
             mpp[dsu.parent[it[0]]]++;
         }
 
@@ -197,7 +197,7 @@ public:
         // for example in eg1, node 5 is a valid component and has to be counted
 
         // so to ans we add dsu.components-mpp.size();
-        ans+=dsu.components-mpp.size();
+        ans += dsu.components - mpp.size();
 
         return ans;
     }
