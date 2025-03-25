@@ -36,6 +36,10 @@ public:
         int currstart = x[0][0], currend = x[0][1];
 
         for (int i = 1; i < x.size(); i++) {
+            // lc 3169 me sirf > le rahe the, yaha >= le rahe hai since 3
+            // rectangles ke beech se nikalna hai line which could be at x=4
+            // line or similar
+
             // agar current range ka start>=currend hai means ki iss
             // posn(currend waale x cood) se line nikali jaa sakti hai, ie
             // yaha par line banane ka jagah hai, toh ye ek separate range ho
@@ -84,6 +88,12 @@ public:
         combinedy.push_back({currstart, currend});
 
         // ab apne pass combined ranges hai
+        // notice that each range me atleast 1 rectangle lie karta hai, toh
+        // basically we can easily draw lines bw these sections, if 4 ranges hai
+        // we can draw 3 lines to split into 4 sections with >=1 ractangle in
+        // each section which is needed
+
+        // foe eg
         // toh combinedy in eg1 is like {(0,2),(2,4),(4,5)}, ie we have 3
         // ranges, jisme rectangles pure fitt aayenge, toh inn 3 ranges ke beech
         // se 2 cuts maar sakte hai to get ans in such case return true
@@ -105,6 +115,9 @@ public:
         // but if this was like {(0,2),(2,4)}, toh yaha 1 cut maar
         // sakte hai, toh only 2 sections banenge, but we need 3 sections, toh
         // 2nd cut nai padne ke vajah se ans will be false
+
+        // toh all in all agar combined me >=3 ranges hai, means we can cut them
+        // into 3 sections, otherwise not
 
         // toh all in all agar combined x/y me se jisme bhi>=3 size rahega, usme
         // apan 2 cuts laga kar 3 sections me divide kar payenge hence making
