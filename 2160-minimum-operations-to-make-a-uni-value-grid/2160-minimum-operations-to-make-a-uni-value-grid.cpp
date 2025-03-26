@@ -19,12 +19,11 @@ public:
         // uss case me 4 operations me uni-value grid mil raha hai, which is
         // minm, vahi karna hai basically apan ko
 
-        // toh mid ke liye pehle grid ko sort kardo
-        // sort(grid.begin(), grid.end());
-
-        // ab grid sorted hai lekin grid ke andar ke vectors sorted nai hai, toh
-        // apan ko saare vectors sort nai karne hai , bass mid wala sort karna
-        // hai
+        // toh mid ke liye possible hai ki actual mid value starting indexes me
+        // hi mil jaaye, but we are searching further indexes by sorting the
+        // grid then sorting the middle row of the grid, leading to wrong mid
+        // value, toh sabse badhiya hai, saare elements ko vector me daal do,
+        // phir uss vector ko sort kardo, uska mid will be the corret mid
 
         // m rows
         int m = grid.size();
@@ -35,14 +34,15 @@ public:
         // ab mid value nikal lo
         // push all values into a vector, sort the vector
         vector<int> temp;
-        for(auto it:grid){
-            for(auto it2:it) temp.push_back(it2);
+        for (auto it : grid) {
+            for (auto it2 : it)
+                temp.push_back(it2);
         }
 
-        sort(temp.begin(),temp.end());
-        int mid=temp[(m*n)/2];
+        sort(temp.begin(), temp.end());
+        int mid = temp[(m * n) / 2];
 
-        cout << mid << endl;
+        // cout << mid << endl;
 
         // ab count lelo
         int cnt = 0;
@@ -64,15 +64,15 @@ public:
                 // ab it2 ko mid tak lana hai by +x or -x, toh this steps can be
                 // counted easily
 
-                // abs(it2-mid), will give +ve value always, to handle cases like
-                // it2<mid
+                // abs(it2-mid), will give +ve value always, to handle cases
+                // like it2<mid
 
                 // now this value abs(it2-mid) will be exactly divisible by x,
                 // since both it2 and mid give same remainder when divided by
                 // x,means we can add/subtract in it2 to get to x, since the
                 // value is exactly divisible by x so value/x will give how many
                 // times we need to add/subtract x to get it2 to mid
-                cnt+=abs(it2-mid)/x;
+                cnt += abs(it2 - mid) / x;
             }
         }
 
