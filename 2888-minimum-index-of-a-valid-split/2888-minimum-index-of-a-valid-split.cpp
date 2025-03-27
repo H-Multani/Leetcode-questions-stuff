@@ -30,19 +30,25 @@ public:
         for (auto it : mpp) {
             if (val < it.second) {
                 x = it.first;
-                val=it.second;
+                val = it.second;
             }
         }
 
+        // x is dominant value
+
         // x ka 1 value hi hoga bass, ab count lelo
         int cnt = 0;
-
         // this cnt will be count of how many x are present in current subrray
 
         // first subarray always starts with 0 and at max goes upto idx n-2,
         // vahi tkk ka loop chalao
         // cout<<x<<endl;
         int n = nums.size();
+
+        // notice how apan linearly count karre hai yaha par, optimize kar sakte
+        // haai by using binary search, mid i nikalo, kya [0,mid] & [mid+1,n-1]
+        // me x is dominant, if yes, search left for smaller valid mid, if not
+        // search right for a possible valid mid value
         for (int i = 0; i <= n - 2; i++) {
             if (nums[i] == x)
                 cnt++;
@@ -90,7 +96,8 @@ public:
             }
         }
 
-        // we here means ki koi valid split nai mil saka apan ko, in such case return -1
+        // we here means ki koi valid split nai mil saka apan ko, in such case
+        // return -1
         return -1;
     }
 };
