@@ -23,7 +23,8 @@ public:
         // toh isse kya hua ki smallest value waali queries start me aa gaii,
         // toh ab aage build kar sakte hai apan, like agar value 3 ke liye
         // points=4 hai, toh next value=5 ek liye iss previous ans 4 se aage
-        // build karenge
+        // build karenge, this will reduce searching thru the same locations
+        // again and again for bigger values
 
         // ab pq bana lenge apan, which will store smallest value alongwith
         // location like {4,0,6}, ie grid me (0,6) par value 4 hai
@@ -32,10 +33,10 @@ public:
         priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>>
             pq;
 
-        // firstly pq me elft corner wala element dall do
+        // firstly pq me left corner wala element dall do
         pq.push({grid[0][0], 0, 0});
 
-        // ab ek index i lo which will terate over the new queries
+        // ab ek index i lo which will iterate over the new queries
         int i = 0;
 
         // ek visited vector bana lo so that ek location par 1 baaar hi jaaya
@@ -63,7 +64,9 @@ public:
 
                 // pq.top[0] is the value of top wala banda in the grid, agar
                 // this value<val, means current query ke liye points abhi aa
-                // sakte hai since we need ki grid ka value<query ka value
+                // sakte hai since we need ki grid ka value<query ka value, toh
+                // in such case loop chalega, but if not, it means ki current
+                // query ke liye jitne points aane the aa chuke
 
                 // we are here means current top wala banda is counted for
                 // points for current query, toh points +1 kardo
@@ -77,27 +80,28 @@ public:
                 vector<vector<int>> directions = {
                     {0, 1}, {0, -1}, {1, 0}, {-1, 0}};
 
-                // {0,1} means new coordinates are(x,y+1), type shii
+                // {0,1} means new coordinates are(x,y+1), type shii, 4 values
+                // for 4 directions
 
                 for (auto nbr : directions) {
                     // new waale coordinates will be
                     int x_ = x + nbr[0];
                     int y_ = y + nbr[1];
 
-                    // now we coordinates are (x_,y_)
+                    // now new coordinates are (x_,y_)
 
                     // agar ye neighbour valid(index inbounds) hai and unvisited
                     // hai toh grid wali value value ke saath pq me daal do for
-                    // firther processing
+                    // further processing
                     if (x_ < m && y_ < n && x_ >= 0 && y_ >= 0 &&
                         !vis[x_][y_]) {
-                        // we here means ye nwighbour univisited hai, toh sabse
+                        // we here means ye neighbour univisited hai, toh sabse
                         // pehle isko visited mark kado
                         vis[x_][y_] = true;
 
                         // ab isko grid ki value ke saath pq me daal do for
                         // further processing
-                        pq.push({grid[x_][y_],x_,y_});
+                        pq.push({grid[x_][y_], x_, y_});
                     }
                 }
             }
