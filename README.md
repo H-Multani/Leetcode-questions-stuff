@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2586-longest-square-streak-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2586-longest-square-streak-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2836-neither-minimum-nor-maximum) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2434-design-a-number-container-system) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -627,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2411-spiral-matrix-iv) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3227-find-missing-and-repeated-values) |
@@ -670,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -740,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2121-find-if-path-exists-in-graph) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2793-count-the-number-of-complete-components) |
 ## Segment Tree
 |  |
