@@ -50,15 +50,6 @@ public:
         vector<TreeNode*> curr;
         traverse(root, p, q, curr);
 
-        for (auto it : forp) {
-            cout << it->val << " ";
-        }
-        cout << endl;
-        for (auto it : forq) {
-            cout << it->val << " ";
-        }
-        cout << endl;
-
         for (int i = 0; i < min(forp.size(), forq.size()); i++) {
             if (forp[i]->val != forq[i]->val) {
                 // means yaha tak path common tha, i-1 th wala common ancestor
@@ -123,13 +114,11 @@ public:
         // unordered so that O(1) search
 
         for(auto it:mpp){
-            // cout<<it.first->val<<" "<<it.second<<endl;
             if(it.second==depth){
                 nds.insert(it.first);
                 cnt++;
             }
         }
-        // cout<<depth<<endl;
 
         if(nds.size()==1){
             return *nds.begin();
