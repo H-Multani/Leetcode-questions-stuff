@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0474-ones-and-zeroes) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0042-trapping-rain-water) |
 | [0241-different-ways-to-add-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0494-target-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0905-length-of-longest-fibonacci-subsequence) |
