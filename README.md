@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3643-zero-array-transformation-ii) |
 | [3654-minimum-array-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3654-minimum-array-sum) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Binary Search
 |  |
 | ------- |
