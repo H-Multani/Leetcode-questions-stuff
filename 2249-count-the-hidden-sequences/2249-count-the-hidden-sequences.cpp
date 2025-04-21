@@ -40,6 +40,8 @@ public:
 
         // its the diff bw the sizes +1, toh 5 ke area me 4 ke dabbe ko rakhne
         // ke 2 ways(mentioned above), yehi krna hai bas
+        // btw ye formula nai hai koi, ye bas trial and error se socha maine 2-3
+        // egs par toh common pattern dikh gaya lol
 
         // initial banda 0 leke array banao using prefix sum, infact array
         // banane ka need hi nai, direct ek ek element nikalte jao and maxm and
