@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2411-spiral-matrix-iv) |
 | [2465-shifting-letters-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2551-apply-operations-to-an-array) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0859-design-circular-deque) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2868-continuous-subarrays) |
 ## Counting
 |  |
@@ -840,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -862,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2868-continuous-subarrays) |
 ## Rolling Hash
 |  |
