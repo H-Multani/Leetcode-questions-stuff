@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3643-zero-array-transformation-ii) |
 | [3654-minimum-array-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3654-minimum-array-sum) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3227-find-missing-and-repeated-values) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -813,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3189-find-champion-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -848,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Sliding Window
 |  |
 | ------- |
