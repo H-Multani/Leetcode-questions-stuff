@@ -62,7 +62,7 @@ public:
         // in such case dono arrays ka equal sum will be maxm of the minm sum
         // the arrays can make,eg if nums1 can make minm sum=32 and nums2 can
         // make minm sum=12, and nums2 has some zeroes, these 0s can be used to
-        // make nums2 ka sum==nums1 ka sum, tabhi max le rahe\
+        // make nums2 ka sum==nums1 ka sum, tabhi max le rahe
 
 
         // sum1 and sum2 is minm sum that nums1 and nums2 can make, iss ke aage
