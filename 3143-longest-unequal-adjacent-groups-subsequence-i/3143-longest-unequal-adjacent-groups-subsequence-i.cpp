@@ -40,9 +40,9 @@ public:
         if (zero.size() == 0 || one.size() == 0)
             return {words[0]};
 
-        // we here means 0101 wala pattern ban sakta hai bana do
+        // we here means 0101../10101... wala pattern ban sakta hai bana do
 
-        // 010101 wala pattern banao pehle toh
+        // 010101... wala pattern banao pehle toh (pattern starting at 0)
         for (int i = zero[0] + 1; i < n; i++) {
             // agar last wala banda 0 hai toh 1 dhundo and vice versa
             // mil jaaye toh daal dena seedha
@@ -82,12 +82,13 @@ public:
             // ab ye jo idx store kiye hai inn saare idx par jao words wale
             // array me jo strings hai ans me daal do
 
-            for(auto idx:zero) ans.push_back(words[idx]);
-        }
-        else{
+            for (auto idx : zero)
+                ans.push_back(words[idx]);
+        } else {
             // means 10101.. wala pattern bada banra h vahi bana do
 
-            for(auto idx:one) ans.push_back(words[idx]);
+            for (auto idx : one)
+                ans.push_back(words[idx]);
         }
 
         return ans;
