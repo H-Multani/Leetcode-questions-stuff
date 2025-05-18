@@ -62,7 +62,7 @@ public:
             bool valid = true;
             for (int j = 0; j < prev.size(); j++) {
                 if (curr[j] == prev[j]) {
-                    // means characters adjacent aa rahe hai, it this column
+                    // means characters adjacent aa rahe hai, ie this column
                     // cant be used with previous column, explore other options
                     valid = false;
                     break;
@@ -71,7 +71,7 @@ public:
 
             if (valid) {
                 // means current column can be used with previous column, lelo
-                // and explore karo, for exploration, the i wtill become
+                // and explore karo, for exploration, the i will become
                 // prevstate and since apan ne ye column le liya hai toh
                 // remainingcols-1 bhejna aage waale remainingcols ke liye
                 ans = (ans + solve(i, remainingcols - 1, possiblecols,memo)) % mod;
@@ -116,7 +116,7 @@ public:
         // at max n hoga
         int ans = 0;
         for (auto i = 0; i < possiblecols.size(); i++) {
-            // column 0 par curr string it daal kar explore karo kitne possible
+            // column 0 par curr string i daal kar explore karo kitne possible
             // ways hai and add it to ans
             ans = (ans + solve(i, n - 1, possiblecols,memo)) % mod;
 
