@@ -49,7 +49,7 @@ public:
 
                 // ab is ending ko past wale pq me push kardo, since ho sakta
                 // hai current ending future me koi aur ending ko settle krne me
-                // kaa aa jaaye
+                // kaam aa jaaye
                 past.push(ending);
 
                 // ab since nums[i] par impact hua h iss query ka ie -1 hua hai,
@@ -58,18 +58,21 @@ public:
             }
 
             // iske baad bhi agar nums[i]>0 means heap khatam ho gaya lekin
-            // nums[i] 0 nai ho paya, toh matlab nums[i] cannot be made 0
+            // nums[i]==0 nai ho paya, toh matlab nums[i] cannot be made 0
             // anynmore since iske aage wali queries will not include idx i wala
             // element
 
             // which means jitni queries i ko accomodate krri thi vo nums[i] ko
             // 0 nai pahucha paayi, means zero array cant be made, return -1
-            if(nums[i]>0) return -1;
+            if (nums[i] > 0)
+                return -1;
 
-            // clr out past indeices which are outdated
-            while(!past.empty() && past.top()<=i) past.pop();
+            // clr out past indices which are outdated, matlab jo i se pehle end
+            // hore the unko alag kardo
+            while (!past.empty() && past.top() <= i)
+                past.pop();
         }
 
-        return q-used;
+        return q - used;
     }
 };
