@@ -99,8 +99,25 @@ public:
                 // lekin possible hai ki it wala banda give the minm
                 // nuksan(incase of odd no of changes), toh nuksan nikal kar
                 // minm nuksan store karlo
+
+                // yaha chk nai karte h
             }
-            nuksan = min(nuksan,abs(1LL*(it - (it ^ k))));
+
+            // we update nuksan here, since agar maan lo a,b,c me se minm
+            // nuksaan a wala dera h lekin a^k>a, toh le sakte hai na, since vo
+            // ideal add hoga then remove hoga by itself(logic samjhaya h aage
+            // padho) since b,c wale ka nuksan boht zyada h, kind of like dekhe
+            // ki a^k ka + lene ke chakkar me nuksan badh jaaye b,c lene ka, toh
+            // such cases se overall sum= ((a^k)+b+c)- (a-(a^k))=> (a+b+c), ie
+            // think of it as agar a ko change nai kiya toh zyada better sum
+            // milega, type shii
+            nuksan = min(nuksan, abs(1LL * (it - (it ^ k))));
+
+            // basically abs(a-(a^k))=3 maan lo, b-(b^k)=7 maan lo, c-(c^k)=24
+            // maan lo, toh agar a me change kiya toh b ya c uthana padega pair
+            // banane ke liye which will be worse for the overall sum since
+            // nuksan boht zyada hoga, toh in this case apan a wale ka hi nuksan
+            // consider krre hai, which will make the overall sum better
         }
 
         // ab 2 cases hai , ya toh changes even hai, in which case the ideal sum
