@@ -104,7 +104,7 @@ public:
 
             // if curr="ab" toh iske corresponding ek "ba" hona chahiye
             string rev = curr;
-            reverse(rev.begin(),rev.end());
+            reverse(rev.begin(), rev.end());
 
             // cout<<"curr= "<<curr<<" "<<" rev= "<<rev<<endl;
 
@@ -136,14 +136,21 @@ public:
             // instead of alag karna, ho jaane do add, 2 baar add hoga na ek
             // element, bas na, cnt2 me lelo inn saare sums ko, end me cnt2/=2
             // kar dena, sab vapas sahi ho jaega
+
+            // toh "ab" ka 5 element count hona tha which will be counted 2
+            // times= 10 elements(5 times in "ab" wala case("ab" ke liye "ba"
+            // dhundna) and 5 times in "ba" wala case("ba" le liye "ab"
+            // dhundna))
+
+            // end me cnt2/2 kar denge toh 10 vapas 5 par aa jayega GG
         }
 
-        cnt2/=2;
+        cnt2 /= 2;
 
         // cout<<"cnt2= "<<cnt2<<endl;
 
         // ab cnt2 contains the correct number of elements, cnt me add krdo
-        cnt+=cnt2;
+        cnt += cnt2;
 
         // for (auto it : mp1)
         //     cout << it.first << " " << it.second << endl;
