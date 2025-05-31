@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0917-boats-to-save-people) |
+| [0945-snakes-and-ladders](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0952-word-subsets) |
 | [1018-largest-perimeter-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1019-squares-of-a-sorted-array) |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0073-set-matrix-zeroes) |
 | [0787-sliding-puzzle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1396-count-servers-that-communicate) |
