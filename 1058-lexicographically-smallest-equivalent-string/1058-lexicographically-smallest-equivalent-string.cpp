@@ -73,16 +73,16 @@ public:
         int n = s1.size();
         for (int i = 0; i < n; i++) {
             // dono char ko dsu se join kardo
-            cout << s1[i] << "   " << s2[i] << endl;
-            cout << dsu.parent[s1[i] - 'a'] << "   " << dsu.parent[s2[i] - 'a']
-                 << endl;
+            // cout << s1[i] << "   " << s2[i] << endl;
+            // cout << dsu.parent[s1[i] - 'a'] << "   " << dsu.parent[s2[i] - 'a']
+            //      << endl;
             dsu.unionSets(s1[i] - 'a', s2[i] - 'a');
 
-            cout << "done " << endl;
+            // cout << "done " << endl;
 
-            cout << s1[i] << "   " << s2[i] << endl;
-            cout << dsu.parent[s1[i] - 'a'] << "   " << dsu.parent[s2[i] - 'a']
-                 << endl;
+            // cout << s1[i] << "   " << s2[i] << endl;
+            // cout << dsu.parent[s1[i] - 'a'] << "   " << dsu.parent[s2[i] - 'a']
+            //      << endl;
             // cout<<dsu.
         }
 
