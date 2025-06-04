@@ -83,25 +83,24 @@ public:
             // cout << s1[i] << "   " << s2[i] << endl;
             // cout << dsu.parent[s1[i] - 'a'] << "   " << dsu.parent[s2[i] - 'a']
             //      << endl;
-            // cout<<dsu.
         }
 
         // done, ab bas basestr se string banao
 
         string ans = "";
 
-        for (auto i = 0; i < 26; i++) {
-            cout << (char)('a' + i) << " ";
-            if (i > 9)
-                cout << " ";
-        }
-        cout << endl;
+        // for (auto i = 0; i < 26; i++) {
+        //     cout << (char)('a' + i) << " ";
+        //     if (i > 9)
+        //         cout << " ";
+        // }
+        // cout << endl;
 
-        for (auto it : dsu.parent) {
-            cout << it << " ";
-        }
+        // for (auto it : dsu.parent) {
+        //     cout << it << " ";
+        // }
 
-        cout << endl;
+        // cout << endl;
 
         for (auto ch : baseStr) {
             // curr char is ch
