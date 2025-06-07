@@ -51,8 +51,8 @@ public:
         }
     }
 
-    vector<string> ans;
-    void dfs(trieNode* root, string& temp) {
+    vector<int> ans;
+    void dfs(trieNode* root, int& temp) {
         // crawler lelo
         trieNode* crawler = root;
 
@@ -62,7 +62,8 @@ public:
 
         // dont worry about anything, trust the dfs, 1 ke baad 10,11,12,,,,19
         // tak jaane ke baad hi 2 wala logic chalu hoga
-        ans.push_back(temp);
+        if (temp != 0)
+            ans.push_back(temp);
         // ab iterate over the children
         for (auto i = 0; i < 10; i++) {
             // agar ye wala child null nai hai, toh iss idx ko string me daal
@@ -70,14 +71,16 @@ public:
 
             if (crawler->children[i] != nullptr) {
                 // add
-                temp += to_string(i);
+                temp = temp * 10;
+                temp += i;
                 // explore
                 dfs(crawler->children[i], temp);
                 // explore time, aage wale node ke liye root will be the current
                 // child node
 
-                // undo kardo string se 1 character(i)
-                temp.pop_back();
+                // undo
+                // last digit alag karo temp se
+                temp /= 10;
             }
         }
 
@@ -104,23 +107,15 @@ public:
 
         // ab ek baar DFS chal do, saare possible strings bana kar ans me add
         // karte jao
-        string temp = "";
+        int temp = 0;
         dfs(root, temp);
-        
-        // ab jo ans array hai vo string me store kiya hai, toh iske saare strings ko int bana kar return krdo
-        vector<int> finalans;
 
-        for(auto it:ans){
-            
-            // agar empty string h toh continue
-            if(it=="") continue;
+        // string wala array bana kar kar diya, ab direct number bana kar try
+        // karo
 
-            int val=stoi(it);
+        // sabse aage wala 0 ko kaise alag karu bc, best idea, funcn me hi edge
+        // case laga do
 
-            finalans.push_back(val);
-        }
-
-
-        return finalans;
+        return ans;
     }
 };
