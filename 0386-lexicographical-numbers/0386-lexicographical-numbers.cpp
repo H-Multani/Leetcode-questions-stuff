@@ -56,14 +56,17 @@ public:
         // crawler lelo
         trieNode* crawler = root;
 
-        // temp jitna bana hai push kardo, since aage exploration karke badi
-        // strings hi banengi,toh like current agar 1 par hai toh 1 ko ans me
+        // temp jitna bana hai push kardo, since aage exploration karke bade
+        // numbers hi banengi,toh like current agar 1 par hai toh 1 ko ans me
         // daal do, then explore for 10,11,12,13 etc
 
         // dont worry about anything, trust the dfs, 1 ke baad 10,11,12,,,,19
         // tak jaane ke baad hi 2 wala logic chalu hoga
+
+        // edge case, 0 ko nai karna push
         if (temp != 0)
             ans.push_back(temp);
+            
         // ab iterate over the children
         for (auto i = 0; i < 10; i++) {
             // agar ye wala child null nai hai, toh iss idx ko string me daal
