@@ -784,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0684-redundant-connection) |
+| [0820-find-eventual-safe-states](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0871-keys-and-rooms) |
 | [0988-flip-equivalent-binary-trees](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0988-flip-equivalent-binary-trees) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0787-sliding-puzzle) |
+| [0820-find-eventual-safe-states](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0945-snakes-and-ladders) |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0684-redundant-connection) |
+| [0820-find-eventual-safe-states](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1039-find-the-town-judge) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -988,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Number Theory
