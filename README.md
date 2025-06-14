@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2649-count-total-number-of-colored-cells](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3001-apply-operations-to-maximize-score) |
 | [3201-distribute-candies-among-children-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3201-distribute-candies-among-children-ii) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2681-put-marbles-in-bags) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
