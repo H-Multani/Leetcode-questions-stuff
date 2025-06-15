@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2050-count-good-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2155-find-missing-observations) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1304-longest-happy-string) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2089-maximum-matrix-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
