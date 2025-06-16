@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0055-jump-game) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0055-jump-game) |
 | [0241-different-ways-to-add-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0368-largest-divisible-subset) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0179-largest-number) |
