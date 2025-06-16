@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0078-subsets) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0055-jump-game) |
 | [0241-different-ways-to-add-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0416-partition-equal-subset-sum) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0455-assign-cookies) |
