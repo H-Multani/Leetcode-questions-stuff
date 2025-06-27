@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0231-power-of-two) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0416-partition-equal-subset-sum) |
@@ -1080,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3201-distribute-candies-among-children-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Bucket Sort
