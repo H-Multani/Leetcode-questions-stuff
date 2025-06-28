@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0078-subsets) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0063-unique-paths-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0416-partition-equal-subset-sum) |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0073-set-matrix-zeroes) |
 | [0787-sliding-puzzle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0854-making-a-large-island) |
