@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0283-move-zeroes) |
+| [0307-range-sum-query-mutable](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0368-largest-divisible-subset) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0155-min-stack) |
+| [0307-range-sum-query-mutable](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0307-range-sum-query-mutable) |
 | [0432-all-oone-data-structure](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0731-my-calendar-ii) |
@@ -1004,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1100,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0307-range-sum-query-mutable) |
 | [2280-count-good-triplets-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2280-count-good-triplets-in-an-array) |
 ## Combinatorics
 |  |
