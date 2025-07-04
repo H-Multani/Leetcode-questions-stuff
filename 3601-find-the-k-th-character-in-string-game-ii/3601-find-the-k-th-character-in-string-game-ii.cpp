@@ -38,6 +38,10 @@ public:
             }
         }
 
+        // stuff to notice, since apan length>=k par break kar dete hai toh,
+        // saare queries/operations thodi chalenge, sirf vo operation chalenge
+        // jo length<k rakh rahe hai, thats all
+
         // ab recursive call karo, aur iss baari newk wale char ko nikal kar le
         // aana
         char ch = kthCharacter(newk, op);
@@ -60,10 +64,11 @@ public:
         // ki ye char ko pakka char+1 karke append kiya hoga, tabhi ch+1 bhej
         // raha
 
-        // edge case, agar ch=='z' hua toh 'a' return karenge, else ch+1 return karenge
-        if(ch=='z') return 'a';
-        
+        // edge case, agar ch=='z' hua toh 'a' return karenge, else ch+1 return
+        // karenge
+        if (ch == 'z')
+            return 'a';
 
-        return ch+1;
+        return ch + 1;
     }
 };
