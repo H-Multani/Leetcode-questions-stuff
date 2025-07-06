@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1972-rotating-the-box) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2058-concatenation-of-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2058-concatenation-of-array) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2107-find-unique-binary-string) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
