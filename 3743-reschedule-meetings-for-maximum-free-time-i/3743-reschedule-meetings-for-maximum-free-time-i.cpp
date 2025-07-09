@@ -37,9 +37,7 @@ public:
         int ans = 0;
         int ttl = 0;
 
-        for (auto it : gaps)
-            cout << it << " ";
-        cout << endl;
+        
         n = gaps.size();
         int l = 0, r = 0;
 
