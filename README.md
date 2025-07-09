@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3654-minimum-array-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3654-minimum-array-sum) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3647-zero-array-transformation-iii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Simulation
 |  |
 | ------- |
@@ -1063,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3483-alternating-groups-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3483-alternating-groups-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## String Matching
 |  |
 | ------- |
