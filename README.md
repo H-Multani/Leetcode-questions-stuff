@@ -636,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -883,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0386-lexicographical-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0820-find-eventual-safe-states) |
