@@ -7,10 +7,6 @@ public:
         // sort kardo meeting pehle toh
         sort(m.begin(), m.end());
 
-        for (auto it : m) {
-            cout << it[0] << " " << it[1] << endl;
-        }
-
         // ab n size ka vector lelo, which will store how many meetings this
         // room has done
         vector<long long> room(n, 0);
@@ -128,12 +124,6 @@ public:
 
         // ab iterate karke dhundo ki maxm konse room me meeting hui hai
         long long maxm = -1, maxidx = -1;
-
-        for (auto it : room) {
-            cout << it << " ";
-        }
-        cout << endl;
-
         for (long long i = 0; i < n; i++) {
             if (room[i] > maxm) {
                 maxm = room[i];
