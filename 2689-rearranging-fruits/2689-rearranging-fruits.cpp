@@ -28,6 +28,7 @@ public:
         for (auto it : mpp) {
             int cost = it.first;
             int freq = abs(it.second);
+            // abs value since freq can be -ve
 
             // agar freq is ever odd number means cant be split return -1 frm
             // here
@@ -102,7 +103,7 @@ public:
             // case2 me cost incurr hogi 2*minm, since 2 swap krre hai jisme
             // minm will be counted twice
 
-            ans += min(swapped[i],minm*2);
+            ans += min(swapped[i], minm * 2);
         }
 
         return ans;
