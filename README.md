@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0917-boats-to-save-people) |
+| [0940-fruit-into-baskets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0952-word-subsets) |
 | [1018-largest-perimeter-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1018-largest-perimeter-triangle) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0906-walking-robot-simulation) |
+| [0940-fruit-into-baskets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0952-word-subsets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1039-find-the-town-judge) |
@@ -1093,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0940-fruit-into-baskets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1755-defuse-the-bomb) |
