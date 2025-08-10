@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0940-fruit-into-baskets) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0780-max-chunks-to-make-sorted) |
+| [0900-reordered-power-of-2](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1019-squares-of-a-sorted-array) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1034-subarrays-with-k-different-integers) |
 | [1364-tuple-with-same-product](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1396-count-servers-that-communicate) |
@@ -1162,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1656-count-good-triplets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
