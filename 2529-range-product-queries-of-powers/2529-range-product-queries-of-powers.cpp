@@ -42,7 +42,11 @@ public:
             int val = log2(n);
 
             // power of 2 lelo iss val ka
-            val = pow(2, val);
+            // val = pow(2, val);
+            // isko apan aur kam complexity me kar sakte hai using left shift
+            // operator, since 2 ka hi power nikalna hai, since we need 2^val,
+            // toh we can do 1 (leftshift) val times, to get to the same value
+            val=(1<<val);
 
             // ab isko powers array me daal do
             powers.push_back(val);
@@ -77,10 +81,10 @@ public:
             int start = it[0];
             int end = it[1];
 
-            int prod=1;
+            int prod = 1;
 
-            for(int i=start;i<=end;i++){
-                prod=(powers[i]*prod)%mod;
+            for (int i = start; i <= end; i++) {
+                prod = (powers[i] * prod) % mod;
             }
 
             ans.push_back(prod);
