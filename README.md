@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1112,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
