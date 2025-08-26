@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3309-count-prefix-and-suffix-pairs-i) |
