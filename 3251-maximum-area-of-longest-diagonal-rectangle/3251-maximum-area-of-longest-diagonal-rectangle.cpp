@@ -9,7 +9,7 @@ public:
 
         for(auto it:d){
             // current bande ka diagonal nikalo
-            int curr=pow(it[0],2)+pow(it[1],2);
+            int curr=(it[0]*it[0])+(it[1]*it[1]);
 
             // curr=sqrt(curr);
             
