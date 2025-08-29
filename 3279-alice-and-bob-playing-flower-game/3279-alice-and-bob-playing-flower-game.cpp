@@ -1,6 +1,8 @@
 class Solution {
 public:
     long long flowerGame(int n, int m) {
+        // x can be in range 1 to n
+        // y can be in range 1 to m
         // so x and y can be in range 2 to m+n like [2,m+n]
 
         // when x+y is odd, in all scenarios alice will win,toh we need x+y to
@@ -25,7 +27,7 @@ public:
         // y odd and x even
         ans2=oddy*evenx;
 
-        cout<<ans1<<" "<<ans2<<" "<<endl;
+        // cout<<ans1<<" "<<ans2<<" "<<endl;
 
         return ans1+ans2;
     }
