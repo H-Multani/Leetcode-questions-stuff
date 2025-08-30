@@ -16,14 +16,12 @@ public:
             mpp.erase('.');
             for (auto it : mpp) {
                 if (it.second > 1) {
-                    cout << "typeshii " << it.first << endl;
                     return false;
                 }
             }
         }
 
-        cout << "here" << endl;
-
+        // check each column
         for (int i = 0; i < 9; i++) {
             unordered_map<char, int> mpp;
             for (int j = 0; j < 9; j++) {
@@ -37,15 +35,11 @@ public:
         }
 
         // check each 3x3 sub board
-        cout << "here2" << endl;
         // iss se start karke 3x3 me chalo, take use from lc 37
 
         for (int i = 0; i < 9; i += 3) {
             for (int j = 0; j < 9; j += 3) {
                 unordered_map<char, int> mpp;
-
-                int newi = i / 3;
-                int newj = j / 3;
 
                 for (int k = 0; k < 9; k++) {
                     mpp[board[3 * (i / 3) + k / 3][3 * (j / 3) + k % 3]]++;
@@ -59,6 +53,8 @@ public:
             }
         }
 
+        // means sab places par values rakhh sakte hai easily, return true since
+        // board valid hai
         return true;
     }
 };
