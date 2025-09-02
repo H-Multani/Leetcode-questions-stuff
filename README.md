@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3321-type-of-triangle) |
@@ -1193,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3201-distribute-candies-among-children-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Binary Indexed Tree
 |  |
@@ -1214,4 +1218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
