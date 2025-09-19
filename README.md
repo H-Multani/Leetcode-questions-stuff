@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Queue
 |  |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2434-design-a-number-container-system) |
+| [3797-design-spreadsheet](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3797-design-spreadsheet) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -968,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3797-design-spreadsheet) |
 ## Depth-First Search
 |  |
 | ------- |
