@@ -26,11 +26,14 @@ public:
 
             // available me daal do
             available[movie].insert({price, shop});
+            // insertion-> O(logn)
             // movitoshop me daal do
             movitoshop[movie].insert({shop, price});
+            // insertion-> O(logn)
         }
     }
-
+    
+    // overall T.C-> O(const)
     vector<int> search(int movie) {
         // ezpz, available hai toh map me jaa kar, iss movie ke top ke 5 bande
         // nikal lo cheapest wale
@@ -38,9 +41,9 @@ public:
         int cnt = 0;
 
         // agar available me ye movie hai toh bhej dena
-        if (available.count(movie)) {
+        if (available.count(movie)) { // O(1), searching
 
-            for (auto it : available[movie]) {
+            for (auto it : available[movie]) { // O(5)
                 int shop = it.second;
 
                 // ye shop ans me daal do
@@ -68,8 +71,9 @@ public:
         // auto it2 = it.lower_bound({shop, INT_MIN});
         // new way to use lower bound, gives smallest banda with value>=shop
 
-        // dono kaam ek sath kardo
+        // dono kaam ek sath kardo, since alag alag karne se TLE aara
         auto it2 = movitoshop[movie].lower_bound({shop, INT_MIN});
+        // O(logn) for checking
 
         // price nikal lo isse ab
         int price = it2->second;
@@ -77,9 +81,11 @@ public:
         // since ab rent karre hai toh available se hata dena, since its no
         // longer available
         available[movie].erase({price, shop});
+        // O(logn) for erasing
 
         // and also rented wale map me daal dena
         rented.insert({price, shop, movie});
+        // O(logn) for isnert
     }
 
     void drop(int shop, int movie) {
@@ -97,18 +103,23 @@ public:
 
         // dono kaam ek sath kardo
         auto it2 = movitoshop[movie].lower_bound({shop, INT_MIN});
+        // O(logn) for check
+
         // price nikal lo isse ab
         int price = it2->second;
 
         // ab is movie ko rented wale se alag kardo, since ab isko vapas bhejre
         // hai
         rented.erase({price, shop, movie});
+        // O(logn) for erase
 
         // and then insert it into the available wala map, since this movie
         // available for purchase
         available[movie].insert({price, shop});
+        // O(logn) for insert
     }
 
+    // again overall const time O(const)
     vector<vector<int>> report() {
         vector<vector<int>> ans;
 
