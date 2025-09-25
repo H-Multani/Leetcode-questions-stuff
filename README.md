@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0169-majority-element) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0416-partition-equal-subset-sum) |
