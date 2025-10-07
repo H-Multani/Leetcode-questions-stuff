@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1500-count-largest-group](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0907-koko-eating-bananas) |
+| [1612-avoid-flood-in-the-city](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2164-two-best-non-overlapping-events](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2164-two-best-non-overlapping-events) |
@@ -773,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1612-avoid-flood-in-the-city](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2164-two-best-non-overlapping-events) |
@@ -869,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1612-avoid-flood-in-the-city](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1612-avoid-flood-in-the-city) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2089-maximum-matrix-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
