@@ -9,6 +9,9 @@ public:
         // ab potion par apan binary search chalayenge and count karenge ki
         // kitne potions will be valid with current spell
 
+        // binary search since minm valid potion milne ke baad aane wale saare
+        // potions will be valid automatically 
+
         vector<int> ans;
         // iterate over the spells
         for (auto curr : s) {
@@ -20,7 +23,7 @@ public:
 
             // agar success/curr not prefectly divisible, toh val ko val+1
             // kardo, since lower bound me agar integer only value denge in such
-            // case toh chhote wale ans bhi count kar lega
+            // case toh chhote wale ans bhi count kar lega which is not valid
             if (success % curr != 0)
                 val++;
 
