@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
@@ -933,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3447-clear-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Interactive
 |  |
 | ------- |
@@ -1108,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3647-zero-array-transformation-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Trie
 |  |
 | ------- |
