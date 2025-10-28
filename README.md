@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -964,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3447-clear-digits) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Interactive
@@ -1139,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3427-special-array-ii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3643-zero-array-transformation-ii) |
