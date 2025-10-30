@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-alternating-groups-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3654-minimum-array-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3654-minimum-array-sum) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3447-clear-digits) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -889,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3001-apply-operations-to-maximize-score) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Greedy
 |  |
 | ------- |
@@ -941,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
