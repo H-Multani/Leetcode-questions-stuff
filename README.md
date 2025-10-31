@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
