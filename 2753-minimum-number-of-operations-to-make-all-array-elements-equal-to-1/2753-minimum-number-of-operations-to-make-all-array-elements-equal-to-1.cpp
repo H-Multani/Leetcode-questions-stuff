@@ -33,12 +33,12 @@ public:
 
         int ans = INT_MAX;
 
+        int n = nums.size();
         // ok toh edge case ye hai ki agar pehle se boht elements 1 hai toh unko
         // change nai karna padega apan ko toh ek onecount le lenge jisko
         // overall ans me se subtract kar denge and agar onecnt==n hua toh means
         // 0 steps reqd
 
-        int n = nums.size();
         if (one == n)
             return 0;
 
@@ -48,6 +48,8 @@ public:
         // become 1
         if(one>0) return n-one;
 
+
+        // do all of this only when koi bhi 1 present nai hai 
         for (int i = 0; i < n; i++) {
 
             // overall lelo
