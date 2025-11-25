@@ -20,7 +20,11 @@ public:
         // set to store remainders, agar koi bhi remainder repeat hua means
         // kitne bhi 1 laga lo repeat hi hota rahega, in such case return -1
         set<int> r;
+        // worst case me it stores k values for k different remainders
+        // S.C-> O(k)
 
+        // worst case me ye loop k baar chalega for k different remainders
+        // T.C-> O(k)
         while (true) {
             // current val check karo if it can be the ans
             if (val % k == 0) {
