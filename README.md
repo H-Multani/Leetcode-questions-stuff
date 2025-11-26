@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2479-meeting-rooms-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1060,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2411-spiral-matrix-iv) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2794-maximum-number-of-moves-in-a-grid) |
