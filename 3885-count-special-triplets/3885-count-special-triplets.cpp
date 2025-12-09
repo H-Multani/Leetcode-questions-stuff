@@ -36,39 +36,35 @@ public:
         // yaha 2 options hai ki ya toh current element and prev element leke
         // chalu ya toh loop me chalau aisa ki ye karna hi nai pade
 
-        // first option includes prev wale element ko left map me include karna
-        // and current wale ko right se alag karna then cheking for ans
+        // second option includes ek loop me element smartly iterate karu mai
+        // like so
+        for (auto curr : nums) {
+            // now we are at nums[i], this element is not in left wala map, but
+            // is currently present in right wala map
 
-        // start karne se pehle idx=0 wale ko right se alag kar dena nai toh
-        // dikkat hogi since we start at i=1 toh right wala element idx 1 se
-        // alag hora toh edge case ye hai ki idx 0 wala abhi bhi hai toh alag
-        // kar dena
-        rt[nums[0]]--;
-        for (int i = 1; i < nums.size(); i++) {
-            // current element ko right wale map se alag karo, toh current
-            // element not included in right side
-            rt[nums[i]]--;
-            // prev wale element ko left me add kardo, toh prev element now
-            // included in left side
-            left[nums[i - 1]]++;
+            // toh removing it from right wala map will make this element not be
+            // in both the map, tab iss element ko apan consider kar payenge for
+            // centre element
 
-            // isse ye hua hai ki current wala element is not in either of the 2
-            // maps, toh ab current element ko centre leke chal sakte hai
+            // remove frm right wala map
+            rt[curr]--;
 
-            // agar centre wala element is odd means curr/2 karne se aisi value
-            // nai aayegi which will get us nums[i]=2*nums[j] like nums[j]=5
-            // then nums[i]=2 which will not hold for nums[i]=2*nums[j], toh
-            // such case me aage badh jao
+            // ab current element is not in both map, x and y nikal lo
+            long long x = (left[curr * 2]) % mod;
+            long long y = (rt[curr * 2]) % mod;
 
-
-            // otherwise curr/2 ka freq nikalo left se (x) and right se (y)
-            long long x = (left[nums[i] * 2])%mod;
-            long long  y = (rt[nums[i] * 2])%mod;
-
-            // ans me add kardo x*y triplet count
+            // ab ans me add kardo
             ans = (ans + (x * y) % mod) % mod;
-        }
 
+            // ab curr wale element ka kaam ho gaya hai as middle element, aage
+            // aane wale elements ke liye ye current element should be included
+            // in left wala side toh left me daal do
+            left[curr]++;
+        }
+        // toh basically what we did here is, remove element frm right map, so
+        // now it became part of no maps, meansing it becomes centre element ,
+        // after counting and all, add the element in left side since for
+        // upcoming elements this will be in the left side
         return ans;
     }
 };
