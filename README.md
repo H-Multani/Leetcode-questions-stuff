@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0952-word-subsets) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1025-minimum-cost-for-tickets) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1170-shortest-common-supersequence) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0494-target-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1170-shortest-common-supersequence) |
