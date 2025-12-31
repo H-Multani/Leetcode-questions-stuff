@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2058-concatenation-of-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2089-maximum-matrix-sum) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2107-find-unique-binary-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2164-two-best-non-overlapping-events](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1092,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2089-maximum-matrix-sum) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2411-spiral-matrix-iv) |
@@ -1126,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1484-linked-list-in-binary-tree) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2121-find-if-path-exists-in-graph](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2121-find-if-path-exists-in-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2201-valid-arrangement-of-pairs) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -1157,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1876-map-of-highest-peak) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2121-find-if-path-exists-in-graph](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1260,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1396-count-servers-that-communicate) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2121-find-if-path-exists-in-graph](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2121-find-if-path-exists-in-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2793-count-the-number-of-complete-components) |
