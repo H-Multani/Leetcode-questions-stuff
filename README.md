@@ -622,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0657-robot-return-to-origin) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0952-word-subsets) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0494-target-sum) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1013-fibonacci-number) |
