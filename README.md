@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0118-pascals-triangle) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0241-different-ways-to-add-parentheses) |
@@ -922,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0739-daily-temperatures) |
@@ -949,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -1092,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0787-sliding-puzzle) |
