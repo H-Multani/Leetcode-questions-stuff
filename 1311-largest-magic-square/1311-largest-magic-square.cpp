@@ -18,8 +18,11 @@ public:
         for (int row = 0; row < k; row++) {
             // row sum nikalo
             long long sm = 0;
+            //  sum nikalo
+            long long sm2 = 0;
             for (int col = 0; col < k; col++) {
                 sm += grid[i + row][j + col];
+                sm2 += grid[i + col][j + row];
 
                 // agar diagonal ka part hai toh add kardo
                 if (row == col) {
@@ -31,29 +34,13 @@ public:
             }
 
             // agar row ka sum not same as ttl, means nai hai grid valid
-            if (sm != ttl)
+            if (sm != ttl || sm2!=ttl)
                 return false;
         }
 
         // diagonal ke sum check karlo
         if (diag1 != ttl || diag2 != ttl)
             return false;
-
-        // ab ek loop chala kar column ke sum nikal lo
-        for (int row = 0; row < k; row++) {
-            // column sum nikalo, kuch nahi bass row and column ko switch kar
-            // dena, thats it
-            long long sm = 0;
-            for (int col = 0; col < k; col++) {
-                // isse row common rahega lekin column change hota rahega, toh
-                // current column ka sum milega
-                sm += grid[i + col][j + row];
-            }
-
-            // agar row ka sum not same as ttl, means nai hai grid valid
-            if (sm != ttl)
-                return false;
-        }
 
         return true;
     }
