@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3748-sort-matrix-by-diagonals) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3797-design-spreadsheet) |
 | [3863-power-grid-maintenance](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3863-power-grid-maintenance) |
@@ -904,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3647-zero-array-transformation-iii) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3863-power-grid-maintenance](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -1058,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3447-clear-digits) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3721-count-mentions-per-user](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3721-count-mentions-per-user) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Interactive
@@ -1085,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1484-linked-list-in-binary-tree) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2411-spiral-matrix-iv) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1320,12 +1325,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2868-continuous-subarrays) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3790-fruits-into-baskets-ii) |
 | [3863-power-grid-maintenance](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3863-power-grid-maintenance) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0432-all-oone-data-structure) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Shortest Path
 |  |
 | ------- |
