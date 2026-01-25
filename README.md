@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2107-find-unique-binary-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2107-find-unique-binary-string) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2155-find-missing-observations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2155-find-missing-observations) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -1357,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1813-maximum-erasure-value) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
