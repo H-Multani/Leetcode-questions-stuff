@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1278,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2755-extra-characters-in-a-string) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Graph
 |  |
@@ -1350,6 +1354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Sliding Window
@@ -1472,4 +1477,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3238-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
