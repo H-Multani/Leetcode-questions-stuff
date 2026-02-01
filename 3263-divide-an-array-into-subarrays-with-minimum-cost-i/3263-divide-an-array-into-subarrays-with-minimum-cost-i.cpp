@@ -1,6 +1,9 @@
 class Solution {
 public:
     int minimumCost(vector<int>& nums) {
+        // thoda hi sochna pada not too much here
+
+
         // okay toh ek cheez toh mandatory hai, ki kitna effort maar lo first
         // element ko hamesha consider karna padega ans me
 
