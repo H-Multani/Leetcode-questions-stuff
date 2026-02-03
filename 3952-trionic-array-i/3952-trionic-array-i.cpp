@@ -32,6 +32,7 @@ int n;
     bool isTrionic(vector<int>& nums) {
         n=nums.size();
 
+        // loop ke ye constrains since 0<p<q<n-1 needed, vahi kiya h bs
         for(int p=1;p<n;p++){
 
             for(int q=p+1;q<n-1;q++){
