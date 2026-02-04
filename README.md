@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3885-count-special-triplets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3885-count-special-triplets) |
 | [3934-coupon-code-validator](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3934-coupon-code-validator) |
 | [3952-trionic-array-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3952-trionic-array-i) |
+| [3956-trionic-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3956-trionic-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3654-minimum-array-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3654-minimum-array-sum) |
+| [3956-trionic-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3956-trionic-array-ii) |
 ## Recursion
 |  |
 | ------- |
