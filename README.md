@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-coupon-code-validator](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3934-coupon-code-validator) |
 | [3952-trionic-array-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3956-trionic-array-ii) |
+| [3958-minimum-removals-to-balance-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3958-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-count-mentions-per-user](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3721-count-mentions-per-user) |
 | [3748-sort-matrix-by-diagonals](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3748-sort-matrix-by-diagonals) |
 | [3934-coupon-code-validator](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3934-coupon-code-validator) |
+| [3958-minimum-removals-to-balance-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3958-minimum-removals-to-balance-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1391,6 +1393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3483-alternating-groups-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3958-minimum-removals-to-balance-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3958-minimum-removals-to-balance-array) |
 ## String Matching
 |  |
 | ------- |
