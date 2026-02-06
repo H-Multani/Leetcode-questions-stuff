@@ -4,7 +4,7 @@ public:
         // simple sliding window, hints hi bata diye
 
         // sort the array first
-        int n=nums.size();
+        int n = nums.size();
         sort(nums.begin(), nums.end());
         int i = 0, j = 0, ans = -1;
 
@@ -19,7 +19,7 @@ public:
             // agar nums[j]<=nums[i]*k, means apan windo badha sakte hai aage,
             // since question wala order follow hora, otherwise window ko shrink
             // karo
-            while (i < n && (1LL*nums[j]) > (1LL*nums[i] * k)) {
+            while (i < n && (1LL * nums[j]) > (1LL * nums[i] * k)) {
                 // means we need to shrink window since maxm has become greater
                 // than minm * k
 
@@ -31,14 +31,15 @@ public:
             // all elements such that minm*k>=maxm
 
             // ye length ek possible ans hai update kardo
-            ans=max(ans,j-i+1);
+            ans = max(ans, j - i + 1);
 
             // extend window
             j++;
         }
 
-
-        // ab ans is the length of biggest valid array, means baaki elements nikalne padenge array se, toh overall ans is n-ans, since n-ans is the no of elements we have to remove to get to that perfect array
-        return n-ans;
+        // ab ans is the length of biggest valid array, means baaki elements
+        // nikalne padenge array se, toh overall ans is n-ans, since n-ans is
+        // the no of elements we have to remove to get to that perfect array
+        return n - ans;
     }
 };
