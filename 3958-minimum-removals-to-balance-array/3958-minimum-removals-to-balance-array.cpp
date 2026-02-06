@@ -3,6 +3,18 @@ public:
     int minRemoval(vector<int>& nums, int k) {
         // simple sliding window, hints hi bata diye
 
+        // essentially we will use sliding window on sorted array to find
+        // biggest valid ans, and fir bache kuche remove kar denge array se to
+        // get final ans
+
+        // we do this sliding window on sorted array since, sorting se order me
+        // rahenge elements toh biggest valid array banane ke liye baar baar
+        // smallest and largest dhundna nai padega, we know smallest is nums[i]
+        // and biggest is nums[j], using these elements apan agar window ke
+        // bahar dekhenge toh vaise bhi invalid arrays milenge which do not
+        // follow the rule we have, toh window valid rahegi hamesha apni best
+        // case scenario
+
         // sort the array first
         int n = nums.size();
         sort(nums.begin(), nums.end());
