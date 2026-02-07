@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-count-mentions-per-user](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3721-count-mentions-per-user) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [4122-final-element-after-subarray-deletions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4122-final-element-after-subarray-deletions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3952-trionic-array-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3958-minimum-removals-to-balance-array) |
+| [4122-final-element-after-subarray-deletions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4122-final-element-after-subarray-deletions) |
 ## Hash Table
 |  |
 | ------- |
@@ -1428,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [4122-final-element-after-subarray-deletions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4122-final-element-after-subarray-deletions) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1492,4 +1495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3238-minimum-cost-to-convert-string-ii) |
+## Game Theory
+|  |
+| ------- |
+| [4122-final-element-after-subarray-deletions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4122-final-element-after-subarray-deletions) |
 <!---LeetCode Topics End-->
