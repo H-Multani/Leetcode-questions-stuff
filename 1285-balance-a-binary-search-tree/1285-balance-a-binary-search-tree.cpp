@@ -14,23 +14,26 @@ class Solution {
 public:
     vector<int> vals;
 
-    TreeNode* solve(int l,int r){
+    TreeNode* solve(int l, int r) {
         // base case
-        if(l>r) return nullptr;
+        if (l > r)
+            return nullptr;
 
         // agar l and r is valid then mid nikalo
-        int mid=l+(r-l)/2;
+        int mid = l + (r - l) / 2;
 
-        cout<<"mid is "<<mid<<" "<<vals[mid]<<endl;
+        // cout << "mid is " << mid << " " << vals[mid] << endl;
 
-        // ye element ka node banao ek
-        TreeNode* node=new TreeNode(vals[mid]);
+        // ye element/value ka node banao ek
+        TreeNode* node = new TreeNode(vals[mid]);
 
         // ab left chale jao l,mid-1 leke, and tree ka left wala pointer bhejna
-        node->left=solve(l,mid-1);
-        // ab right chale jao mid+1,r leke, and tree ka right wala pointer bhejna
-        node->right=solve(mid+1,r);
+        node->left = solve(l, mid - 1);
+        // ab right chale jao mid+1,r leke, and tree ka right wala pointer
+        // bhejna
+        node->right = solve(mid + 1, r);
 
+        // ab apne paas node ban kar taiyaar hai with left and right subtrees bhej do
         return node;
     }
     void traverse(TreeNode* root) {
@@ -57,23 +60,23 @@ public:
 
         traverse(root);
 
-        int n=vals.size();
+        int n = vals.size();
 
         // ab koi random ass tareeke se nai construct kar sakte tree ko since we
-        // need balanced tree, for arrayr[1,2,3,4] agar apan tree me 1 se
-        // elements insert karte gaye toh unbalanced tree banega pakka , toh
-        // usse bachne ke liye binary search type se bharenge apan , essentially
-        // what we will do is ek insert funcn likh dunga mai, fir firstly mai
-        // insert karunga mid wala element, fir insert karunga left wala element
-        // and explore, then insert right wala element and explore, isse
-        // elements will be inserted in order and this way mid wala element will
-        // become the root of new tree and left and right me elements add hote
-        // jaenge
+        // need balanced tree, for array [1,2,3,4] agar apan tree me 1 se
+        // elements insert karte gaye toh unbalanced tree banega pakka since
+        // saare elements right me chale jaenge , toh usse bachne ke liye binary
+        // search type se bharenge apan , essentially what we will do is ek
+        // insert funcn likh dunga mai, fir firstly mai insert karunga mid wala
+        // element, fir insert karunga left wala element and explore, then
+        // insert right wala element and explore, isse elements will be inserted
+        // in order and this way mid wala element will become the root of new
+        // tree and left and right me elements add hote jaenge
 
-        TreeNode* ans=new TreeNode();
+        TreeNode* ans = new TreeNode();
 
         // ans treenode me banate jana hai
 
-        return solve(0,n-1);
+        return solve(0, n - 1);
     }
 };
