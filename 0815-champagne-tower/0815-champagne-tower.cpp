@@ -47,10 +47,12 @@ public:
             tower.push_back(row);
         }
 
-        // ab this causes TLE, toh memoize kardo, i,j,poured changes, bana do
-        // memo, yaha ab poured ke liye memo banana is too hard, toh dp use kar
-        // lete hai seedha, tower wala array bharte jayenge, since memoize karna
-        // is way harder than dp bottom up chalana
+        // ab this(recursion) causes TLE, toh memoize kardo, i,j,poured changes,
+        // bana do memo,
+
+        // yaha ab poured ke liye memo banana is too hard since poured can be
+        // 1e9, toh dp use kar lete hai seedha, tower wala array bharte jayenge,
+        // since memoize karna is way harder than dp bottom up chalana
 
         // chala do dp bottom up
 
@@ -59,16 +61,35 @@ public:
 
         for (int i = 0; i < tower.size() - 1; i++) {
             for (int j = 0; j < tower[i].size(); j++) {
-                // ka value toh yaha 1 rakh kar aaage split karke bhej do
+                // ab yaha overflow kitna hoga nikal lo, initially overflow will
+                // be glass me jo bhi value hai
                 double overflow = tower[i][j];
 
                 if (overflow > 1) {
-                    // yaha 1 rakh do and bacha kucha half kardo
-                    overflow = overflow - 1.0;
+                    // we here means glass se spill karega [i+1][j] and
+                    // [i+1][j+1] me
+
+                    // current glass me 1 rakh do
                     tower[i][j] = 1;
+                    // ab glass me 1 reh kar overflow remaining will be
+                    overflow = overflow - 1.0;
+
                     // ab overflow/2 aage wale [i+1][j] and [i+1][j+1] me daal
                     // do, since waha pehle se koi value ho sakti hai hence
                     // overwrite nai karna add karna
+
+                    // pehle se koi value kaise??, maan lo row 3 ke glass 2 bhar
+                    // raha hai, ie [3][2] bhar raha hai, toh chances hai ki
+                    // usko bharne ke liye [2][1] and [2][2] wale bande ne
+                    // overflow mara hoga,
+                    // since for [2][1], overflow goes to [3][1] and [3][2],
+                    // and for
+                    // since for [2][2], overflow goes to [3][2] and [3][3]
+
+                    // toh since 2 glasses se aa raha hai overflow hence
+                    // overwrite krne se ye hoga ki apan bass 1 glass ke
+                    // overflow ko consider kar rahe, whereas we need to
+                    // consider 2 glasses, which is why we add the overflow
                     tower[i + 1][j] += overflow / 2;
                     tower[i + 1][j + 1] += overflow / 2;
                 }
@@ -82,7 +103,8 @@ public:
         // 1 and tower[query_row][query_glass] me se jo bhi minm hai vahi bhej
         // dena as ans
 
-        // since glass me toh bass 1 hi rahega na max, bacha kucha overflow ho jayega side se
+        // since glass me toh bass 1 hi rahega na max, bacha kucha overflow ho
+        // jayega side se
 
         return min(1.0, tower[query_row][query_glass]);
     }
