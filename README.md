@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0342-power-of-four) |
@@ -1139,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0347-top-k-frequent-elements) |
 | [1285-balance-a-binary-search-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1285-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2280-count-good-triplets-in-an-array) |
