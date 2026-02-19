@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0917-boats-to-save-people) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0657-robot-return-to-origin) |
+| [0696-count-binary-substrings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0812-rotate-string) |
