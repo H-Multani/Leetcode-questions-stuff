@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // O(sqrt(n))
     bool isprime(int val){
         if(val==1) return false;
         for(int i=2;i*i<=val;i++){
@@ -13,6 +14,7 @@ public:
 
         int ans=0;
 
+        // O(r-l)
         while(left<=right){
             // left wale me kitne set bits
             int bits=__builtin_popcount(left);
@@ -21,6 +23,8 @@ public:
             if(isprime(bits)) {cout<<left<<" has bits "<<bits<<endl;ans++;}
             left++;
         }
+
+        // overall O((r-l)+sqrt(n));
 
         return ans;
     }
