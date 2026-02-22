@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0371-sum-of-two-integers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0899-binary-gap](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0899-binary-gap) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
