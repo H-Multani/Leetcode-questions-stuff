@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-binary-prefix-divisible-by-5](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1839-decode-xored-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1940-maximum-xor-for-each-query) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1500-count-largest-group](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1542-consecutive-characters) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1447,10 +1450,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
 |  |
