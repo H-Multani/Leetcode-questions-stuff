@@ -880,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0988-flip-equivalent-binary-trees) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -964,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0988-flip-equivalent-binary-trees) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1211,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0988-flip-equivalent-binary-trees) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
