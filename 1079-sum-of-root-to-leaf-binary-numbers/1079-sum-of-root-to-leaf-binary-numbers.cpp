@@ -22,7 +22,7 @@ public:
 
             // val is 10010, and current leaf node included is 100101, world of
             // difference, dont forget this
-            return (val<<1) + (root->val);
+            return (val << 1) + (root->val);
         }
 
         // we here means beech kisi node par hai
@@ -71,6 +71,12 @@ public:
         return ans1 + ans2;
     }
     int sumRootToLeaf(TreeNode* root) {
+
+        // logic is simple, tree me chalte jao value banate jao, end me leaf par
+        // jab aa jao toh leaf tak me jo value construct hui hogi usko return
+        // karte jana, toh upar wale node me right se banne wali saari final
+        // strings ke decimal values aayenge, toh right side and left side se
+        // aaye answers ko club karke bhej dena
 
         if (root == nullptr)
             return 0;
