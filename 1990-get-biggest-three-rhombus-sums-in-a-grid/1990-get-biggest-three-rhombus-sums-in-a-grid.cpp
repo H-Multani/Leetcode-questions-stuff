@@ -44,22 +44,17 @@ public:
                     // right-> (r,c+side)
                     // left-> (r,c-side)
 
-                    // toh first add all diagonal values from top to right
-                    for (int k = 0; k < side; k++) {
-                        ttl += grid[r - side + k][c + k];
-                    }
+                    // mik ne bass common loop chala diya kar deta mai bhi
 
-                    // add all diagonal values from top to left
                     for (int k = 0; k < side; k++) {
+                        // toh first 
+                        // add all diagonal values from top to right
+                        ttl += grid[r - side + k][c + k];
+                        // add all diagonal values from top to left
                         ttl += grid[r - k][c - side + k];
-                    }
-                    
-                    // add all diagonal values from right to bottom
-                    for (int k = 0; k < side; k++) {
+                        // add all diagonal values from right to bottom
                         ttl += grid[r + k][c + side - k];
-                    }
-                    // add all diagonal values from left to bottom
-                    for (int k = 0; k < side; k++) {
+                        // add all diagonal values from left to bottom
                         ttl += grid[r + side - k][c - k];
                     }
 
