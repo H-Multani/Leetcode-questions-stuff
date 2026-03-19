@@ -2,7 +2,8 @@ class Solution {
 public:
     int numberOfSubmatrices(vector<vector<char>>& grid) {
         // lc 3070 wala logic but usme ek value ka prefix bana rahe the, yaha
-        // pair ka prefix banayenge, baaki sab same
+        // pair ka prefix banayenge, baaki sab same, since 3070 me bhi [0][0] ko
+        // include karke submatrice banane the, yaha bhi same karna hai exactly
 
         int m = grid.size();
         int n = grid[0].size();
@@ -70,10 +71,10 @@ public:
 
         int ans = 0;
         for (auto it : arr) {
-            for (auto [x, y] : it) {
+            for (auto [xcnt, ycnt] : it) {
                 // agar x and y ka cnt same hua and freq of x is atleast 1, then
                 // consider this banda for ans
-                if (x == y && x > 0)
+                if (xcnt == ycnt && xcnt > 0)
                     ans++;
             }
             // cout<<endl;
