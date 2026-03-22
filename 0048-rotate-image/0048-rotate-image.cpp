@@ -3,7 +3,6 @@ public:
     void rotate(vector<vector<int>>& matrix) {
         // isme same logic as lc 1886
 
-        // rotate matlab [i][j] becomes [j][n-i-1]
 
         // first row becomes last column
         // second row becomes last 2nd column...
@@ -14,6 +13,8 @@ public:
         // third column becomes third row...
         // j th column becomes j th row
 
+        // overall
+        // rotate matlab [i][j] becomes [j][n-i-1]
 
         // laga do yehi logic
 
@@ -25,6 +26,10 @@ public:
             }
         }
 
+
+        // end me matrix ko ans kar dena, sicne inplace changes karne the
         matrix=ans;
+
+        return;
     }
 };
