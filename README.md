@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3001-apply-operations-to-maximize-score) |
+| [3031-construct-product-matrix](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3031-construct-product-matrix) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -1210,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3031-construct-product-matrix](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3031-construct-product-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3227-find-missing-and-repeated-values) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -1333,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2915-count-of-interesting-subarrays) |
+| [3031-construct-product-matrix](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3031-construct-product-matrix) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [3427-special-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3427-special-array-ii) |
