@@ -71,12 +71,12 @@ public:
         }
 
         // left is
-        // cout<<"left "<<endl; 
+        // cout<<"left "<<endl;
         // for(auto it:left){
         //     cout<<it<<" ";
         // }
         // // rt is
-        // cout<<"rt "<<endl; 
+        // cout<<"rt "<<endl;
         // for(auto it:rt){
         //     cout<<it<<" ";
         // }
@@ -97,17 +97,23 @@ public:
         // se pehle tak ka product, and (i,j) se end tak ka product not
         // including (i,j) wala element
 
-        // first and last elements ke liye rt[1] and left[m*n-2] laga dena respectively
+        // first and last elements ke liye rt[1] and left[m*n-2] laga dena
+        // respectively
 
-        // starting values ka mod lena na bhulna
-        grid[0][0]=rt[1]%mod;
-        grid[m-1][n-1]=left[(m*n)-2]%mod;
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
+        // starting values ka mod lena na bhulna, mod lena is imp here since
+        // aage beech wale sab elements ke liye mod le rahe hai before storing
+        // ans, toh starting and ending values ke liye bhi mod le lenge
+        grid[0][0] = rt[1] % mod;
+        grid[m - 1][n - 1] = left[(m * n) - 2] % mod;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
                 // first and last element ke liye case likh chuke, skip here
-                if(i==0 && j==0) continue;
-                if(i==m-1 && j==n-1) continue;
-                grid[i][j]= (left[(i*n) + j -1]*rt[(i*n)+j+1])%mod;
+                if (i == 0 && j == 0)
+                    continue;
+                if (i == m - 1 && j == n - 1)
+                    continue;
+                grid[i][j] =
+                    (left[(i * n) + j - 1] * rt[(i * n) + j + 1]) % mod;
             }
         }
 
