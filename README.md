@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3797-design-spreadsheet) |
+| [3849-equal-sum-grid-partition-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3849-equal-sum-grid-partition-i) |
 | [3863-power-grid-maintenance](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3863-power-grid-maintenance) |
 | [3885-count-special-triplets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3885-count-special-triplets) |
 | [3934-coupon-code-validator](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3934-coupon-code-validator) |
@@ -1218,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3797-design-spreadsheet) |
+| [3849-equal-sum-grid-partition-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3849-equal-sum-grid-partition-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1347,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3647-zero-array-transformation-iii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3849-equal-sum-grid-partition-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3849-equal-sum-grid-partition-i) |
 ## Trie
 |  |
 | ------- |
@@ -1525,6 +1528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3849-equal-sum-grid-partition-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3849-equal-sum-grid-partition-i) |
 | [4055-longest-balanced-substring-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4055-longest-balanced-substring-i) |
 ## Binary Indexed Tree
 |  |
