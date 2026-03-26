@@ -2,7 +2,7 @@
 
 class Solution {
 public:
-typedef long long ll;
+    typedef long long ll;
     bool canPartitionGrid(vector<vector<int>>& grid) {
         // part 1 wala logic likhenge but with some changes to accomodate
         // discounted wala item
@@ -124,32 +124,38 @@ typedef long long ll;
                             // means diff wala element right ya left edge se
                             // nikal sakte hai, in such case nikal lo
                         } else {
-                            // we here means nai nikal sakte beech se hi nikalna
-                            // padega, which is not possible since not connected
-                            // ho jayega, in such case true nai bhej sakte, aage
-                            // search karo
+                            // we here means nai nikal sakte corner se beech se
+                            // hi nikalna padega, which is not possible since
+                            // not connected ho jayega, in such case true nai
+                            // bhej sakte, aage search karo
                             continue;
                         }
                     }
                     // edge case, agar apne paas column hi ek hai , toh ye upar
                     // row wali checking iss column ke liye bhi karni padegi,
-                    // since maan lo 1 column is like [4,1,5,5,5], and we are at
-                    // row=2(split like [4,5,1][5,5]), toh yaha bhale diff=1 can
-                    // be removed lekin its not valid since 1 remove karne se
-                    // connected nai rahega, toh yaha sirf [0][0] wala
-                    // element(0th row wala 4) alag kar sakte ya fir [row][0]
-                    // wala(row wala 5), inke alava kuch bhi nai kar sakte
+                    // since maan lo 1 column is like [4][1][5][5][5], and we
+                    // are at row=2(split like {[4][1][5]} , {[5][5]}), toh yaha
+                    // bhale diff=1 can be removed lekin its not valid since 1
+                    // remove karne se connected nai rahega, toh yaha sirf
+                    // [0][0] wala element(0th row wala 4) alag kar sakte ya fir
+                    // [row][0] wala(row th row wala 5), inke alava kuch bhi nai
+                    // kar sakte
                     else if (n == 1) {
+                        // means column hi ek hai
 
-                        // we here means 1 hi column hai, toh [row+1][0] wala
-                        // remove kar sakte ya fir [m-1][0] wala only, toh agar
+                        // we here means 1 hi column hai, toh [0][0] wala
+                        // remove kar sakte ya fir [row][0] wala only, toh agar
                         // ye dono elements me se koi diff hai toh kardo alag
                         // and reutrn true
                         if (grid[0][0] == diff || grid[row][0] == diff) {
                         } else {
+
+                            // we here means nai mila edges me,beech se nikalna
+                            // padega, in such case continue karo aage dhundo
+                            // kuch, since beech se nikaloge toh not connected
+                            // ban jayega
                             continue;
                         }
-                        // means row hi ek hai
                     }
                     return true;
                 }
@@ -197,6 +203,7 @@ typedef long long ll;
                     // element(row+1 wala 5) alag kar sakte ya fir [m-1][0]
                     // wala(m-1th row wala 5), inke alava kuch bhi nai kar sakte
                     else if (n == 1) {
+                        // means row hi ek hai
 
                         // we here means 1 hi column hai, toh [row+1][0] wala
                         // remove kar sakte ya fir [m-1][0] wala only, toh agar
@@ -205,9 +212,12 @@ typedef long long ll;
                         if (grid[row + 1][0] == diff ||
                             grid[m - 1][0] == diff) {
                         } else {
+                            // we here means nai nikal sakte beech se hi nikalna
+                            // padega, which is not possible since not connected
+                            // ho jayega, in such case true nai bhej sakte, aage
+                            // search karo
                             continue;
                         }
-                        // means row hi ek hai
                     }
 
                     return true;
@@ -230,8 +240,9 @@ typedef long long ll;
                 mpp2[it2]++;
             }
         }
-        // ab dono ke liye dhund liya hai, ab nai mil sakta toh return false
 
+        // vertical cuts ke liye horizontal wale logic me hi transpose maar do
+        // row and col ko, ban gaya
         for (int col = 0; col < n; col++) {
             if (n == 1)
                 break;
@@ -297,6 +308,7 @@ typedef long long ll;
                 }
             }
         }
+        // ab dono ke liye dhund liya hai, ab nai mil sakta toh return false
         return false;
     }
 };
