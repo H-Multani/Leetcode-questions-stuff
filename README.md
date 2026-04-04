@@ -728,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2197-decode-the-slanted-ciphertext](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2232-adding-spaces-to-a-string) |
@@ -1132,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2155-find-missing-observations) |
 | [2169-simple-bank-system](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2169-simple-bank-system) |
+| [2197-decode-the-slanted-ciphertext](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2232-adding-spaces-to-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2274-keep-multiplying-found-values-by-two) |
