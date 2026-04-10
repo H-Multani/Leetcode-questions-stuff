@@ -1,6 +1,8 @@
 class Solution {
 public:
     int minimumDistance(vector<int>& nums) {
+        // seedha optimal likh diya
+
         // same value wale ke index map me daal do
 
         // this will help keep all distinct elements with same value ke index
