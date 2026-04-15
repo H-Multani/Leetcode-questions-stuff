@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2681-put-marbles-in-bags) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2580-circular-sentence) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2755-extra-characters-in-a-string) |
