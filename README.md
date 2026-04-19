@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1972-rotating-the-box) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1975-minimum-distance-to-the-target-element) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2164-two-best-non-overlapping-events](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1972-rotating-the-box) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
