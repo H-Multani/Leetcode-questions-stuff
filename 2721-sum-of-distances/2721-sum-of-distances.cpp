@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     vector<long long> distance(vector<int>& nums) {
         // TLE de diya
 
@@ -27,6 +26,8 @@ public:
         // map me first of all store all common value wale elements ke indexes
         unordered_map<int, vector<int>> mpp;
         int n = nums.size();
+
+        // O(n)
         for (int i = 0; i < n; i++) {
             mpp[nums[i]].push_back(i);
         }
@@ -34,6 +35,11 @@ public:
         // ab map ke har element par iterate karo and ans banao
         vector<long long> ans(n, 0);
 
+        // outer loop runs on all unique elements, and andar wala loop runs on
+        // indexes of those unique elements, overall O(n+n)-> O(n) for prefix
+        // banane, and O(n) for ans update karne
+
+        // overall O(2n)-> O(n)
         for (auto [ele, idx] : mpp) {
 
             // we here means apan ab saare ele value ke indexes ke liye ans bana
@@ -78,6 +84,9 @@ public:
                 ans[idx[i]] = ttl;
             }
         }
+
+
+        // overall complexity O(n)
 
         return ans;
     }
