@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2721-sum-of-distances](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2721-sum-of-distances) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2755-extra-characters-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2689-rearranging-fruits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2721-sum-of-distances](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2721-sum-of-distances) |
 | [2755-extra-characters-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1373,6 +1375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2465-shifting-letters-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2721-sum-of-distances](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2721-sum-of-distances) |
 | [2915-count-of-interesting-subarrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2915-count-of-interesting-subarrays) |
 | [3031-construct-product-matrix](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3031-construct-product-matrix) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
