@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3958-minimum-removals-to-balance-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3958-minimum-removals-to-balance-array) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3982-maximum-walls-destroyed-by-robots) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4122-final-element-after-subarray-deletions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4122-final-element-after-subarray-deletions) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -901,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3654-minimum-array-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3654-minimum-array-sum) |
 | [3956-trionic-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3956-trionic-array-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3982-maximum-walls-destroyed-by-robots) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -1268,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3797-design-spreadsheet) |
 | [3849-equal-sum-grid-partition-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3850-equal-sum-grid-partition-ii) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
