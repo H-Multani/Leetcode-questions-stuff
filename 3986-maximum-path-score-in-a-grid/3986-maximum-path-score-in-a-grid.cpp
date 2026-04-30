@@ -25,7 +25,7 @@ public:
         if (j < n - 1) {
             // means right ja sakte hai, explore right
 
-            // agar current value 0 hai means cost 0 lagi, otherwise cost 1 lagi
+            // agar aage value 0 hai means cost 0 lagi, otherwise cost 1 lagi
             int cost = (grid[i][j + 1] == 0) ? 0 : 1;
 
             // current score ko include karo, and explore right
@@ -36,7 +36,7 @@ public:
         if (i < m - 1) {
             // means down ja sakte hai, explore down
 
-            // agar current value 0 hai means cost 0 lagi, otherwise cost 1 lagi
+            // agar aage value 0 hai means cost 0 lagi, otherwise cost 1 lagi
             int cost = (grid[i + 1][j] == 0) ? 0 : 1;
 
             // current score ko include karo, and explore down
