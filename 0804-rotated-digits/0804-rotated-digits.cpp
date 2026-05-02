@@ -29,7 +29,7 @@ public:
         for(int i=1;i<=n;i++){
             int vals=dosmth(to_string(i));
             if(i!=vals && vals!=-1){
-                cout<<i<<endl;
+                // cout<<i<<endl;
                 ans++;
             }
         }
