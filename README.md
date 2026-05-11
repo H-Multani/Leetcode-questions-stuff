@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2639-separate-the-digits-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2639-separate-the-digits-in-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2689-rearranging-fruits) |
@@ -1185,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2551-apply-operations-to-an-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2639-separate-the-digits-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2846-robot-collisions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2846-robot-collisions) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
