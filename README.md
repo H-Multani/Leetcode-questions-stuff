@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2232-adding-spaces-to-a-string) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2245-destroying-asteroids](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2245-destroying-asteroids) |
 | [2249-count-the-hidden-sequences](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2215-finding-3-digit-even-numbers) |
+| [2245-destroying-asteroids](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2245-destroying-asteroids) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1154,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2199-two-furthest-houses-with-different-colors](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2245-destroying-asteroids](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2245-destroying-asteroids) |
 | [2300-construct-string-with-repeat-limit](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2300-construct-string-with-repeat-limit) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
