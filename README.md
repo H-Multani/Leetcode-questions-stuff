@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3956-trionic-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3958-minimum-removals-to-balance-array) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [3981-jump-game-ix](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3981-jump-game-ix) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3982-maximum-walls-destroyed-by-robots) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3790-fruits-into-baskets-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4176-minimum-k-to-reduce-array-within-limit](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4176-minimum-k-to-reduce-array-within-limit) |
 ## Sorting
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-coupon-code-validator](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3934-coupon-code-validator) |
 | [3958-minimum-removals-to-balance-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3958-minimum-removals-to-balance-array) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
 |  |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3195-separate-black-and-white-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4200-reverse-letters-then-special-characters-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4200-reverse-letters-then-special-characters-in-a-string) |
 ## String
 |  |
@@ -1190,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Simulation
 |  |
 | ------- |
