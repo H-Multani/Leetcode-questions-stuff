@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4122-final-element-after-subarray-deletions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4122-final-element-after-subarray-deletions) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Bit Manipulation
@@ -948,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3981-jump-game-ix](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3981-jump-game-ix) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3986-maximum-path-score-in-a-grid) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -1650,6 +1652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3849-equal-sum-grid-partition-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3850-equal-sum-grid-partition-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4055-longest-balanced-substring-i) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
