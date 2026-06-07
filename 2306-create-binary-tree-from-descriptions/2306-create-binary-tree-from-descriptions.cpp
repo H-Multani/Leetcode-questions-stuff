@@ -70,7 +70,7 @@ public:
         for (auto it : descriptions) {
 
             if (ischild.find(it[0]) == ischild.end()) {
-                // means current wala node kisi ka parent nai hai this is the
+                // means current wala node kisi ka child nai hai this is the
                 // ans, return it
                 return mpp[it[0]];
             }
