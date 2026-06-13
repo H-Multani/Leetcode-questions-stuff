@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4122-final-element-after-subarray-deletions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4122-final-element-after-subarray-deletions) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4176-minimum-k-to-reduce-array-within-limit](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4176-minimum-k-to-reduce-array-within-limit) |
+| [4216-weighted-word-mapping](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4216-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-coupon-code-validator](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3934-coupon-code-validator) |
 | [4055-longest-balanced-substring-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4055-longest-balanced-substring-i) |
 | [4200-reverse-letters-then-special-characters-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4200-reverse-letters-then-special-characters-in-a-string) |
+| [4216-weighted-word-mapping](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4216-weighted-word-mapping) |
 ## Queue
 |  |
 | ------- |
@@ -1241,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [4200-reverse-letters-then-special-characters-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4200-reverse-letters-then-special-characters-in-a-string) |
+| [4216-weighted-word-mapping](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4216-weighted-word-mapping) |
 ## Interactive
 |  |
 | ------- |
