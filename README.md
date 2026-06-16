@@ -840,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3797-design-spreadsheet](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3931-process-string-with-special-operations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3931-process-string-with-special-operations-i) |
 | [3934-coupon-code-validator](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3934-coupon-code-validator) |
 | [4055-longest-balanced-substring-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4055-longest-balanced-substring-i) |
 | [4200-reverse-letters-then-special-characters-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4200-reverse-letters-then-special-characters-in-a-string) |
@@ -1242,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3931-process-string-with-special-operations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3931-process-string-with-special-operations-i) |
 | [4200-reverse-letters-then-special-characters-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4200-reverse-letters-then-special-characters-in-a-string) |
 | [4216-weighted-word-mapping](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4216-weighted-word-mapping) |
 ## Interactive
