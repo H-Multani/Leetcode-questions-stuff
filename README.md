@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3291-find-if-array-can-be-sorted) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3321-type-of-triangle) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3227-find-missing-and-repeated-values) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1669,6 +1671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3849-equal-sum-grid-partition-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3850-equal-sum-grid-partition-ii) |
