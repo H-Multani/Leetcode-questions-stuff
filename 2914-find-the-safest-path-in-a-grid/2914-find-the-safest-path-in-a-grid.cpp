@@ -46,7 +46,12 @@ public:
 
         // visited array lelo ek baar baar same jagah visit nai karna
         vector<vector<bool>> vis(n,vector<bool>(n,false));
+
+        // edge case, agar start hi invalid hai toh yehi se bhej do false
         if(dist[0][0]<x) return false;
+
+
+        
         return solve2(0,0,vis,x,dist);
         
     }
