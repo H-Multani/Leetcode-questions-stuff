@@ -1397,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1433,6 +1434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -1724,6 +1726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3919-network-recovery-pathways](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3919-network-recovery-pathways) |
@@ -1736,5 +1739,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1663-detect-cycles-in-2d-grid) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2914-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
