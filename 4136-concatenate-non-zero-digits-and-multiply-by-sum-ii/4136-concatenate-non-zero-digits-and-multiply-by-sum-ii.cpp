@@ -3,10 +3,10 @@ public:
     vector<int> sumAndMultiply(string s, vector<vector<int>>& queries) {
         int n = s.size();
         int mod = 1e9 + 7;
-        vector<long long> pow10(n+1);
-        pow10[0]=1;
-        for(int i=1;i<=n;i++){
-            pow10[i]=(pow10[i-1]*10LL)%mod;
+        vector<long long> pow10(n + 1);
+        pow10[0] = 1;
+        for (int i = 1; i <= n; i++) {
+            pow10[i] = (pow10[i - 1] * 10LL) % mod;
         }
 
         // prefix sum me store karlo ki har index tak kitne characters non 0 the
@@ -39,10 +39,15 @@ public:
 
             // vals bhardo
             if (s[i] != '0') {
-                vals[i] = ((1LL*vals[i - 1] * 10)%mod + (s[i] - '0')) % mod;
+                vals[i] = ((1LL * vals[i - 1] * 10) % mod + (s[i] - '0')) % mod;
 
                 // logic being suppose vals[i-1]=135, and current me we got 7
                 // then vals[i] has to become vals[i]=1357, vahi kar raha
+
+                // isme ek case ban sakta ki aage wala peeche wale se smaller
+                // nikal jaaye if mod lagega toh like vals[i-1]=100, vals[i]=10
+                // since mod lag gaya, dont worry unn cases ko bhi apan
+                // difference nikalte time handle kar lenge
             } else {
                 // means current wala char is 0, not to be included in vals toh
                 // peeche wala jaisa same value banega yaha bhi
@@ -91,39 +96,42 @@ public:
             // wale, which is 34, to get that we have a way
 
             // reqd=vals[end]-(vals[st-1]*10^k) where k is difference between no
-            // of digits of both vals[end] and vals[st-1], essentially k=(digit
-            // cnt vals[end])- (digit cnt vals[st-1])
+            // of digits of both vals[end] and vals[st-1], essentially
+            // k=(digit cnt vals[end])- (digit cnt vals[st-1])
 
-            // which becomes k=4-2=2, toh 10^2 we multiply to vals[st-1] toh it becomes 1200, difference both we get 1234-1200=> 34, which is reqd, yehi kar lenge
+            // which becomes k=4-2=2, toh 10^2 we multiply to vals[st-1] toh it
+            // becomes 1200, difference both we get 1234-1200=> 34, which is
+            // reqd, yehi kar lenge
 
             // for digits we can directly get it from pre[] wala array
 
             // k nikalo
             long long k;
-            if(st==0){
-                k=pre[end];
-            }
-            else{
-                k=pre[end]-pre[st-1];
+            if (st == 0) {
+                k = pre[end];
+            } else {
+                k = pre[end] - pre[st - 1];
             }
 
-            // ab power of 10 nikal lo and multiply that to vals[st-1], power of 10 ke liye hardcoded array par jao wahi se nikal lo
+            // ab power of 10 nikal lo and multiply that to vals[st-1], power of
+            // 10 ke liye pow10 array par jao wahi se nikal lo
             long long x;
-            if(st==0){
+            if (st == 0) {
                 // no need for anything, since vals[end] pura lena hai
-                x=vals[end];
-            }
-            else{
+                x = vals[end];
+            } else {
 
                 // now we simply do vals[end]-(vals[st-1]*10^k)
-                // ab this can overflow in opposite incase vals[st-1] wala bigger value ban jaaye, uss case me we add mod since we know theres 2 ways for modding -ve values
+                // ab this can overflow in opposite incase vals[st-1] wala
+                // bigger value ban jaaye, uss case me we add mod since we know
+                // theres 2 ways for modding -ve values
 
-                // first way is x%mod, 
-                // second way is (x+mod)%mod, 
-                // second way se overall +Ve aata hai ans, which is what we need
-                x=(vals[end]-(vals[st-1]*pow10[k])%mod + mod)%mod;
+                // first way is x%mod, jisme overall value -ve aayega
+                // second way is (x+mod)%mod,
+                // second way se overall +Ve aata hai ans, which is what we
+                // need, yehi kar denge
+                x = (vals[end] - (vals[st - 1] * pow10[k]) % mod + mod) % mod;
             }
-
 
             // ans bana kar bhej do
             ans.push_back((x * sum) % mod);
