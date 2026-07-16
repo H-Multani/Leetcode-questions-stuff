@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4176-minimum-k-to-reduce-array-within-limit](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4176-minimum-k-to-reduce-array-within-limit) |
 | [4216-weighted-word-mapping](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4216-weighted-word-mapping) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3982-maximum-walls-destroyed-by-robots) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -749,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4200-reverse-letters-then-special-characters-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4200-reverse-letters-then-special-characters-in-a-string) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -1275,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3931-process-string-with-special-operations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3931-process-string-with-special-operations-i) |
 | [4200-reverse-letters-then-special-characters-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4200-reverse-letters-then-special-characters-in-a-string) |
 | [4216-weighted-word-mapping](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4216-weighted-word-mapping) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Interactive
 |  |
 | ------- |
@@ -1683,6 +1688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
