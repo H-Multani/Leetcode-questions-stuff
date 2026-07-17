@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-sorted-gcd-pair-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3583-sorted-gcd-pair-queries) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-sorted-gcd-pair-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-sorted-gcd-pair-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3583-sorted-gcd-pair-queries) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3427-special-array-ii) |
 | [3435-block-placement-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3435-block-placement-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3583-sorted-gcd-pair-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3583-sorted-gcd-pair-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3643-zero-array-transformation-ii) |
@@ -908,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3583-sorted-gcd-pair-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3583-sorted-gcd-pair-queries) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1509,6 +1514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3427-special-array-ii) |
 | [3470-maximum-score-from-grid-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3470-maximum-score-from-grid-operations) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3583-sorted-gcd-pair-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3583-sorted-gcd-pair-queries) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3639-zero-array-transformation-i) |
@@ -1685,6 +1691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3001-apply-operations-to-maximize-score) |
+| [3583-sorted-gcd-pair-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -1725,6 +1732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3201-distribute-candies-among-children-ii) |
+| [3583-sorted-gcd-pair-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3583-sorted-gcd-pair-queries) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Bucket Sort
 |  |
