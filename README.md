@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1364-tuple-with-same-product) |
+| [1386-shift-2d-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1386-shift-2d-grid) |
 | [1395-minimum-time-visiting-all-points](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1395-minimum-time-visiting-all-points) |
 | [1396-count-servers-that-communicate](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1252,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0657-robot-return-to-origin) |
 | [0906-walking-robot-simulation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0906-walking-robot-simulation) |
 | [1184-car-pooling](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1184-car-pooling) |
+| [1386-shift-2d-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1386-shift-2d-grid) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2043-cyclically-rotating-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2043-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2048-build-array-from-permutation) |
@@ -1347,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0870-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0945-snakes-and-ladders) |
 | [1311-largest-magic-square](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1311-largest-magic-square) |
+| [1386-shift-2d-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1386-shift-2d-grid) |
 | [1396-count-servers-that-communicate](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
