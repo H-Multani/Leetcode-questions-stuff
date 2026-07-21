@@ -36,11 +36,15 @@ public:
 
         // basically 2 adjacent blocks of 0s become 1s, and get added to ans
 
+        // yaha augmentation already hai toh apan koi bhi 2 adjacent blocks le
+        // sakte hai including start and end wale blocks, agar augmentation nai
+        // hota toh ans ke liye first and last block use nai kar paate
+
         //  toh we just need maxm sum of 2 adjacent blocks of 0s, nikal kar add
         //  kardo
         int m = arr.size();
         int ans = onecnt;
-        // jitne 1s already hai utne count me include kardo yehi par
+        // jitne 1s already hai utne ans me include kardo yehi par
 
         // iterate through 0s ke blocks and get maxm sum of 2 adjacent blocks
         // and update ans
