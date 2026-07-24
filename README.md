@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-count-mentions-per-user](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3721-count-mentions-per-user) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3824-number-of-unique-xor-triplets-i) |
 ## Array
 |  |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3797-design-spreadsheet) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3804-maximize-active-section-with-trade-ii) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3850-equal-sum-grid-partition-ii) |
@@ -1729,6 +1732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3849-equal-sum-grid-partition-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3850-equal-sum-grid-partition-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4055-longest-balanced-substring-i) |
