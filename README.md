@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0670-maximum-swap) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0539-minimum-time-difference) |
@@ -958,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0494-target-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0804-rotated-digits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0804-rotated-digits) |
@@ -1026,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1791,6 +1795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0486-predict-the-winner) |
 | [4122-final-element-after-subarray-deletions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4122-final-element-after-subarray-deletions) |
 ## Union-Find
 |  |
