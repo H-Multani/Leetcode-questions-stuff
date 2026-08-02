@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-rotated-digits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0804-rotated-digits) |
 | [0870-magic-squares-in-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0900-reordered-power-of-2) |
+| [0909-stone-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0907-koko-eating-bananas) |
+| [0909-stone-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0945-snakes-and-ladders) |
@@ -966,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-rotated-digits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0804-rotated-digits) |
 | [0815-champagne-tower](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0815-champagne-tower) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0909-stone-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0909-stone-game) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1025-minimum-cost-for-tickets) |
@@ -1796,6 +1799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0486-predict-the-winner) |
+| [0909-stone-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0909-stone-game) |
 | [4122-final-element-after-subarray-deletions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4122-final-element-after-subarray-deletions) |
 ## Union-Find
 |  |
