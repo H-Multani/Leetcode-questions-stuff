@@ -1459,6 +1459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2793-count-the-number-of-complete-components) |
+| [3561-remove-methods-from-project](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3561-remove-methods-from-project) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3863-power-grid-maintenance) |
@@ -1502,6 +1503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3561-remove-methods-from-project](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3561-remove-methods-from-project) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3863-power-grid-maintenance) |
@@ -1800,6 +1802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3561-remove-methods-from-project](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3561-remove-methods-from-project) |
 | [3919-network-recovery-pathways](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3919-network-recovery-pathways) |
 ## Game Theory
 |  |
