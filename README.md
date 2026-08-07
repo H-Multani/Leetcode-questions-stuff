@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3721-count-mentions-per-user](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3721-count-mentions-per-user) |
@@ -893,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3797-design-spreadsheet](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3797-design-spreadsheet) |
@@ -1275,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -1526,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1736,6 +1740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3001-apply-operations-to-maximize-score) |
 | [3583-sorted-gcd-pair-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4242-sum-of-gcd-of-formed-pairs) |
