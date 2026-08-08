@@ -779,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3195-separate-black-and-white-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4200-reverse-letters-then-special-characters-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4200-reverse-letters-then-special-characters-in-a-string) |
@@ -893,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1019,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3470-maximum-score-from-grid-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3470-maximum-score-from-grid-operations) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3654-minimum-array-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3654-minimum-array-sum) |
@@ -1276,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3647-zero-array-transformation-iii) |
