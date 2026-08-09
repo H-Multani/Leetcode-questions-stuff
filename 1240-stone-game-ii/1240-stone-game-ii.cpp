@@ -35,7 +35,7 @@ public:
             // alice ka + score count hoga and bob ka -ve score count hoga
             ans = max(ans, ttl - solve(i + x, max(m, x), p));
         }
-        cout << "best ans is " << ans << endl;
+        // cout << "best ans is " << ans << endl;
         return memo[i][m]=ans;
     }
     int stoneGameII(vector<int>& piles) {
