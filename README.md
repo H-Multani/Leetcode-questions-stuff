@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1500-count-largest-group) |
 | [1522-stone-game-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1522-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1617-stone-game-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1617-stone-game-iv) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2037-count-square-sum-triples](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2037-count-square-sum-triples) |
@@ -991,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-jump-game-v](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1466-jump-game-v) |
 | [1522-stone-game-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1522-stone-game-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1617-stone-game-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1617-stone-game-iv) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1824,6 +1826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1617-stone-game-iv) |
 | [4122-final-element-after-subarray-deletions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4122-final-element-after-subarray-deletions) |
 ## Union-Find
 |  |
@@ -1837,9 +1840,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1240-stone-game-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1617-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1617-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
