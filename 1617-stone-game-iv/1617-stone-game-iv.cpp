@@ -49,6 +49,8 @@ public:
         // ok toh TLE aara hai and funcn me bass 1 hi value jaa rahi hai, toh vector banane se accha unordered map lelo better rahega
         memo.clear();
 
+        // optimization nai hora rehen do bc normal chalao
+
         // unordered map me lelo aur kya pakka SQRT nikalne me dikkat jari hogi
         return solve(n);
     }
