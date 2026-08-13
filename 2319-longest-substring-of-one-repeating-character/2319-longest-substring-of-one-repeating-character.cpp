@@ -122,26 +122,31 @@ public:
         // ke pre ka size) in above eg this is ans.pre=3(from left ka
         // length)+1(rt node ka pre ka value)
         // isko eg par laga kar dekhna itll make sense
-        if(l.pre==leftlen && l.rt==r.left){
-            ans.pre=l.pre+r.pre;
+        if (l.pre == leftlen && l.rt == r.left) {
+            ans.pre = l.pre + r.pre;
         }
 
-        // same cheez rt side se
-        ans.suf=r.suf;
-        if(r.suf==rtlen && l.rt==r.left){
-            ans.suf=l.suf+r.suf;
+        // same cheez rt side se, suffix ke sath
+        // ie conditions will be
+        // rt ka suffix same length as rt ka length and
+        // left node ka rt most char is same as rt node ka leftmost char
+        ans.suf = r.suf;
+        if (r.suf == rtlen && l.rt == r.left) {
+            ans.suf = l.suf + r.suf;
         }
 
-        // dono node se jo max len hai vo current node e liye ans ban sakti update
-        ans.maxans=max(l.maxans,r.maxans);
-        // merge ke baad bhi ban sakta, lekin uske liye left node ka rt char must be same as rt node ka left char, tab best ans can be left ka suffix+rt ka prefix
-        if(l.rt==r.left){
-            ans.maxans=max(ans.maxans,l.suf+r.pre);
+        // dono node se jo max len hai vo current node e liye ans ban sakti
+        // update
+        ans.maxans = max(l.maxans, r.maxans);
+        // merge ke baad bhi ban sakta, lekin uske liye left node ka rt char
+        // must be same as rt node ka left char, tab best ans can be left ka
+        // suffix+rt ka prefix
+        if (l.rt == r.left) {
+            ans.maxans = max(ans.maxans, l.suf + r.pre);
         }
 
         // ban gaya node return kardo
         return ans;
-
     }
 
     vector<int> longestRepeating(string s, string queryCharacters,
