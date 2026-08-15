@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Array
 |  |
 | ------- |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4005-maximum-total-subarray-value-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4005-maximum-total-subarray-value-i) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4107-find-missing-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4107-find-missing-elements) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
