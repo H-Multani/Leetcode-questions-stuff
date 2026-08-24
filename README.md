@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1685-stone-game-v](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1685-stone-game-v) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2002-stone-game-viii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2002-stone-game-viii) |
 | [2037-count-square-sum-triples](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2037-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2155-find-missing-observations) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2002-stone-game-viii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2002-stone-game-viii) |
 | [2023-design-movie-rental-system](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2023-design-movie-rental-system) |
 | [2043-cyclically-rotating-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2043-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2048-build-array-from-permutation) |
@@ -1014,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2002-stone-game-viii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2002-stone-game-viii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2164-two-best-non-overlapping-events) |
@@ -1568,6 +1571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1940-maximum-xor-for-each-query) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2002-stone-game-viii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2002-stone-game-viii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2249-count-the-hidden-sequences) |
@@ -1846,6 +1850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1685-stone-game-v) |
+| [2002-stone-game-viii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2002-stone-game-viii) |
 | [4122-final-element-after-subarray-deletions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4122-final-element-after-subarray-deletions) |
 ## Union-Find
 |  |
@@ -1860,12 +1865,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1617-stone-game-iv) |
+| [2002-stone-game-viii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2002-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1617-stone-game-iv) |
+| [2002-stone-game-viii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2002-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
