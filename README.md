@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4005-maximum-total-subarray-value-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4005-maximum-total-subarray-value-i) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4107-find-missing-elements) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4122-final-element-after-subarray-deletions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4122-final-element-after-subarray-deletions) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-coupon-code-validator](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3934-coupon-code-validator) |
 | [4055-longest-balanced-substring-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4055-longest-balanced-substring-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4107-find-missing-elements) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4118-design-ride-sharing-system](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4118-design-ride-sharing-system) |
