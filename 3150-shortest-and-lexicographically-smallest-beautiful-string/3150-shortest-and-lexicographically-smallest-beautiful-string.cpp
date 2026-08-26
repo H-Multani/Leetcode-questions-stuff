@@ -10,7 +10,8 @@ public:
 
         int l = 0, r = 0;
         int n = s.size();
-        // base ans is n times 1
+        // base ans is n+1 times 1, since ye agar end tak bacha means s me se
+        // ans nai bana sakte, in which case we return empty string
         for (int i = 0; i < n + 1; i++)
             ans += '1';
 
@@ -36,19 +37,21 @@ public:
 
             // yaha bhi check karo ho sakta <k ho, valid ho tabhi karna ye sab
             if (cnt == k) {
-
+                
+                // extra waale 0s alag kardo
                 while (l < r && s[l] == '0')
                     l++;
 
                 // valid substring mili hai update kardo ans
 
+                // new possible ans nikalo
                 string s1 = s.substr(l, r - l + 1);
 
-                // update ans if of same length
                 // if new string ka size bigger hai purane ans se then we dont
-                // need to update
+                // need to update since vo smallest substring nai hogi 
                 if (s1.size() <= ans.size()) {
-
+                    
+                    // update ans if of same length
                     ans = min(ans, s1);
                     // agar better ans is smaller length take that
                     if (ans.size() > s1.size())
