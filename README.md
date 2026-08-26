@@ -898,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-furthest-point-from-origin](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3019-furthest-point-from-origin) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3195-separate-black-and-white-balls) |
@@ -1716,6 +1717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3483-alternating-groups-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3483-alternating-groups-ii) |
