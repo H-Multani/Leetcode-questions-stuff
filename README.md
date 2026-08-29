@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3001-apply-operations-to-maximize-score) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -1868,6 +1870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Minimax
 |  |
 | ------- |
