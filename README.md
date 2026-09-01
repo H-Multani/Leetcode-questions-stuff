@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Array
 |  |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3849-equal-sum-grid-partition-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3863-power-grid-maintenance](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3863-power-grid-maintenance) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3885-count-special-triplets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3885-count-special-triplets) |
 | [3919-network-recovery-pathways](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3919-network-recovery-pathways) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3863-power-grid-maintenance](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3863-power-grid-maintenance) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3885-count-special-triplets) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -1459,6 +1462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3797-design-spreadsheet) |
 | [3849-equal-sum-grid-partition-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3850-equal-sum-grid-partition-ii) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Depth-First Search
 |  |
@@ -1548,6 +1552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3863-power-grid-maintenance) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Backtracking
 |  |
