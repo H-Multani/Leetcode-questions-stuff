@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4256-construct-uniform-parity-array-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4258-construct-uniform-parity-array-ii) |
+| [4284-smallest-stable-index-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4284-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1621,6 +1622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3850-equal-sum-grid-partition-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3850-equal-sum-grid-partition-ii) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [4284-smallest-stable-index-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4284-smallest-stable-index-i) |
 ## Trie
 |  |
 | ------- |
