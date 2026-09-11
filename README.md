@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3797-design-spreadsheet) |
+| [3799-unique-3-digit-even-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3799-unique-3-digit-even-numbers) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3797-design-spreadsheet) |
+| [3799-unique-3-digit-even-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3799-unique-3-digit-even-numbers) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3863-power-grid-maintenance](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3863-power-grid-maintenance) |
@@ -1091,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2050-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3799-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -1824,6 +1827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3799-unique-3-digit-even-numbers) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3849-equal-sum-grid-partition-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3849-equal-sum-grid-partition-i) |
