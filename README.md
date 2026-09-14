@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0797-rabbits-in-forest) |
 | [0804-rotated-digits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0804-rotated-digits) |
+| [0866-rectangle-overlap](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0866-rectangle-overlap) |
 | [0870-magic-squares-in-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0909-stone-game) |
@@ -1866,6 +1867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0866-rectangle-overlap](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0866-rectangle-overlap) |
 | [1395-minimum-time-visiting-all-points](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1395-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
