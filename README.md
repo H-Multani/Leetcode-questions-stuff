@@ -811,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2551-apply-operations-to-an-array) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2634-minimum-common-value](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2634-minimum-common-value) |
@@ -908,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2550-words-within-two-edits-of-dictionary) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2580-circular-sentence](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2580-circular-sentence) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -1052,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2554-minimum-total-distance-traveled) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2562-count-ways-to-build-good-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2755-extra-characters-in-a-string) |
@@ -1312,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2681-put-marbles-in-bags) |
