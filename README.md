@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-stone-game-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1617-stone-game-iv) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1685-stone-game-v](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1685-stone-game-v) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2002-stone-game-viii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2002-stone-game-viii) |
 | [2037-count-square-sum-triples](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2037-count-square-sum-triples) |
@@ -1041,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-stone-game-v](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1685-stone-game-v) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1605,6 +1607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1940-maximum-xor-for-each-query) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1854,6 +1857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0062-unique-paths) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3201-distribute-candies-among-children-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3201-distribute-candies-among-children-ii) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3583-sorted-gcd-pair-queries) |
