@@ -11,7 +11,7 @@ public:
             // reverse the idx
             idx=26-idx;
 
-            cout<<idx<<endl;
+            // cout<<idx<<endl;
 
             // ans me daal lo
             // i+1 since 1 based indexing
