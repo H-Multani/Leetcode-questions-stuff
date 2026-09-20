@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-angle-between-hands-of-a-clock](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1477-product-of-the-last-k-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1500-count-largest-group) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1522-stone-game-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1522-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1617-stone-game-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1617-stone-game-iv) |
@@ -1883,6 +1884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0866-rectangle-overlap](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0866-rectangle-overlap) |
 | [1395-minimum-time-visiting-all-points](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1395-minimum-time-visiting-all-points) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1501-circle-and-rectangle-overlapping) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
