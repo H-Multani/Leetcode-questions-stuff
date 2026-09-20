@@ -39,6 +39,8 @@ public:
         ydist=ydist*ydist;
 
         // ab iska distance nikalo radius se
+        // usual dist me hota hai sqrt((x-x1)^2 + (y-y2)^2)
+        // yaha apan sqrt nai karenge, square both sides, hence radius ka square nikalenge left me and rt me bacha hua item, then compare directly
         if((radius*radius)<(xdist+ydist)){
             // we here means radius is smaller than distance, to nearest point, in such case no overlap
             return false;
