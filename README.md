@@ -950,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3797-design-spreadsheet) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3811-reverse-degree-of-a-string) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3931-process-string-with-special-operations-i) |
@@ -1389,6 +1390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3811-reverse-degree-of-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3811-reverse-degree-of-a-string) |
 | [3931-process-string-with-special-operations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3931-process-string-with-special-operations-i) |
 | [4200-reverse-letters-then-special-characters-in-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4200-reverse-letters-then-special-characters-in-a-string) |
 | [4216-weighted-word-mapping](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4216-weighted-word-mapping) |
