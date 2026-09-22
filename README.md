@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3840-find-x-value-of-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3840-find-x-value-of-array-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3859-maximum-product-of-two-digits) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3804-maximize-active-section-with-trade-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3840-find-x-value-of-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3840-find-x-value-of-array-ii) |
 | [3849-equal-sum-grid-partition-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3863-power-grid-maintenance](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3863-power-grid-maintenance) |
@@ -1710,6 +1712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3435-block-placement-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3435-block-placement-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3790-fruits-into-baskets-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3804-maximize-active-section-with-trade-ii) |
+| [3840-find-x-value-of-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3840-find-x-value-of-array-ii) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
 |  |
