@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1755-defuse-the-bomb) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2164-two-best-non-overlapping-events](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2164-two-best-non-overlapping-events) |
@@ -1617,6 +1620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1940-maximum-xor-for-each-query) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1755,6 +1759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1755-defuse-the-bomb) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1813-maximum-erasure-value) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
