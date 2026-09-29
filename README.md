@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2350-find-closest-number-to-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2350-find-closest-number-to-zero) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2358-number-of-ways-to-split-array) |
@@ -1065,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2554-minimum-total-distance-traveled) |
@@ -1481,6 +1483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-last-day-where-you-can-still-cross](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2411-spiral-matrix-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2411-spiral-matrix-iv) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1951,4 +1954,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
