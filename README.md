@@ -840,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0058-length-of-last-word) |
@@ -1018,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0055-jump-game) |
@@ -1596,6 +1598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0040-combination-sum-ii) |
@@ -1953,6 +1956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0022-generate-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
