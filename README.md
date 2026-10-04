@@ -855,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0768-partition-labels) |
@@ -1035,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0494-target-sum) |
+| [0678-valid-parenthesis-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0804-rotated-digits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0804-rotated-digits) |
 | [0815-champagne-tower](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0815-champagne-tower) |
@@ -1250,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1296,6 +1299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0797-rabbits-in-forest) |
@@ -1957,6 +1961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0678-valid-parenthesis-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
