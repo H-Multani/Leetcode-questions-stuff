@@ -860,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0812-rotate-string) |
+| [0886-score-of-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0992-delete-columns-to-make-sorted-ii) |
@@ -1255,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0780-max-chunks-to-make-sorted) |
+| [0886-score-of-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -1962,6 +1964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0886-score-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
