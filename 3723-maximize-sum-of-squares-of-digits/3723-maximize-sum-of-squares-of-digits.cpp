@@ -12,7 +12,7 @@ public:
             // rmemove from sum
             sum-=rem;
             // rem jitna string me daal do
-            ans+=to_string(rem);
+            ans+=(rem+'0');
         }
 
         // loop ke bahar aane ke baad agar sum bacha means 9's se bhi nai bhar sakte meaning ans nai aayega, in such case return ""
