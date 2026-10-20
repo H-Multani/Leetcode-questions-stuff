@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3840-find-x-value-of-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3840-find-x-value-of-array-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3886-sum-of-sortable-integers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3886-sum-of-sortable-integers) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4057-total-waviness-of-numbers-in-range-i) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3885-count-special-triplets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3885-count-special-triplets) |
+| [3886-sum-of-sortable-integers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3886-sum-of-sortable-integers) |
 | [3919-network-recovery-pathways](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3919-network-recovery-pathways) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3934-coupon-code-validator](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3934-coupon-code-validator) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-count-mentions-per-user](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3721-count-mentions-per-user) |
 | [3748-sort-matrix-by-diagonals](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3748-sort-matrix-by-diagonals) |
 | [3859-maximum-product-of-two-digits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3859-maximum-product-of-two-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3886-sum-of-sortable-integers) |
 | [3934-coupon-code-validator](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3934-coupon-code-validator) |
 | [3958-minimum-removals-to-balance-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3958-minimum-removals-to-balance-array) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1897,6 +1900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3849-equal-sum-grid-partition-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3850-equal-sum-grid-partition-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3886-sum-of-sortable-integers) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4055-longest-balanced-substring-i) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4057-total-waviness-of-numbers-in-range-i) |
