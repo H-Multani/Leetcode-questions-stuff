@@ -184,7 +184,7 @@ public:
         }
 
         // update kardo saare components ko
-        dsu->update();
+        // dsu->update();
 
         // aakhri me ans banane ke liye total components me se 1 wale components ka cnt alag kar dena and edge wala bhi alag kar dena 
         return dsu->components - cnt-1;
