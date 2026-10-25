@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1184-car-pooling) |
 | [1222-remove-covered-intervals](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1222-remove-covered-intervals) |
 | [1240-stone-game-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1240-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1254-number-of-closed-islands) |
 | [1256-rank-transform-of-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1306-minimum-absolute-difference) |
@@ -1501,6 +1502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0870-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0945-snakes-and-ladders) |
+| [1254-number-of-closed-islands](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1254-number-of-closed-islands) |
 | [1311-largest-magic-square](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1311-largest-magic-square) |
 | [1386-shift-2d-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1386-shift-2d-grid) |
 | [1396-count-servers-that-communicate](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1396-count-servers-that-communicate) |
@@ -1558,6 +1560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1254-number-of-closed-islands) |
 | [1285-balance-a-binary-search-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1285-balance-a-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1598,6 +1601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0945-snakes-and-ladders) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1254-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1428-jump-game-iii) |
@@ -1964,6 +1968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1254-number-of-closed-islands) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
