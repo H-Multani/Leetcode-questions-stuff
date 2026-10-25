@@ -60,8 +60,8 @@ public:
         components--;
     }
 
-    void update(){
-        for(int i=0;i<parent.size();i++){
+    void update() {
+        for (int i = 0; i < parent.size(); i++) {
             parentt(i);
         }
     }
@@ -114,14 +114,15 @@ public:
         // cluster nai h toh) ya big component ban kar niklega(0s ke cluster
         // edge wale nikal kar )
 
-
-        // ek loop chala kar pehle saare edge wale 0s ko m*n wale se connect karlo
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if((j==0 || i==0 || i==m-1 || j==n-1 )&& grid[i][j]==0){
+        // ek loop chala kar pehle saare edge wale 0s ko m*n wale se connect
+        // karlo
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if ((j == 0 || i == 0 || i == m - 1 || j == n - 1) &&
+                    grid[i][j] == 0) {
                     // current ka idx is i*n+j
                     // jisse connect karna uska idx is m*n
-                    dsu->unionSets(i*n+j,m*n);
+                    dsu->unionSets(i * n + j, m * n);
                 }
             }
         }
@@ -186,7 +187,14 @@ public:
         // update kardo saare components ko
         // dsu->update();
 
-        // aakhri me ans banane ke liye total components me se 1 wale components ka cnt alag kar dena and edge wala bhi alag kar dena 
-        return dsu->components - cnt-1;
+        // aakhri me ans banane ke liye total components me se 1 wale components
+        // ka cnt alag kar dena and edge wala bhi alag kar dena
+        return dsu->components - cnt - 1;
+
+        // cnt-> 1s ka cnt, each 1 is different component toh total se alag kar
+        // denge
+
+        // -1 -> to remove the m*n idx wala node, ye node ya akela niklega, ya
+        // apne saath edge par 0s wale cluster leke niklega
     }
 };
