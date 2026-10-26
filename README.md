@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1532,6 +1533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3470-maximum-score-from-grid-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3470-maximum-score-from-grid-operations) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3797-design-spreadsheet) |
@@ -1581,6 +1583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2793-count-the-number-of-complete-components) |
 | [3561-remove-methods-from-project](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3561-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3863-power-grid-maintenance) |
@@ -1626,6 +1629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3561-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3863-power-grid-maintenance) |
@@ -1974,6 +1978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Minimax
 |  |
 | ------- |
