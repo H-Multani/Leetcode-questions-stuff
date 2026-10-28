@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Array
 |  |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3863-power-grid-maintenance](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3863-power-grid-maintenance) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3885-count-special-triplets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3885-count-special-triplets) |
 | [3886-sum-of-sortable-integers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3886-sum-of-sortable-integers) |
 | [3919-network-recovery-pathways](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3919-network-recovery-pathways) |
@@ -1121,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3654-minimum-array-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3654-minimum-array-sum) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3919-network-recovery-pathways](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3919-network-recovery-pathways) |
 | [3956-trionic-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3956-trionic-array-ii) |
 | [3981-jump-game-ix](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3981-jump-game-ix) |
@@ -1540,6 +1543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3849-equal-sum-grid-partition-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Depth-First Search
 |  |
