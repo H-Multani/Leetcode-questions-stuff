@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3840-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3849-equal-sum-grid-partition-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3863-power-grid-maintenance](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3863-power-grid-maintenance) |
@@ -988,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3805-maximize-active-section-with-trade-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3811-reverse-degree-of-a-string) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3813-smallest-palindromic-rearrangement-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3931-process-string-with-special-operations-i) |
@@ -1181,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Design
 |  |
 | ------- |
@@ -1481,6 +1485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/0347-top-k-frequent-elements) |
 | [1285-balance-a-binary-search-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1285-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2280-count-good-triplets-in-an-array) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -1590,6 +1595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-power-grid-maintenance](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -1771,6 +1777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3790-fruits-into-baskets-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3840-find-x-value-of-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3840-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
 |  |
@@ -1926,6 +1933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3435-block-placement-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3435-block-placement-queries) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Combinatorics
 |  |
 | ------- |
