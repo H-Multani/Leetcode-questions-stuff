@@ -995,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3931-process-string-with-special-operations-i) |
 | [3934-coupon-code-validator](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3934-coupon-code-validator) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4055-longest-balanced-substring-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -1249,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3863-power-grid-maintenance](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3863-power-grid-maintenance) |
 | [3919-network-recovery-pathways](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3919-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1809,6 +1811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3919-network-recovery-pathways](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3919-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1970,6 +1973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3561-remove-methods-from-project](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3561-remove-methods-from-project) |
 | [3919-network-recovery-pathways](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3919-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Game Theory
 |  |
 | ------- |
