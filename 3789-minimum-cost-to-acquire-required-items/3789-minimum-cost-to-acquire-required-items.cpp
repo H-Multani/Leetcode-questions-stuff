@@ -20,7 +20,7 @@ public:
         // toh cnt bande uthane ka 2 tareeka either take (cnt*countboth) or
         // (cnt*cost1+ cnt*cost2), dono me se jo minm cost dede vo utha lo
 
-        long long ans = min(1LL*cnt * costBoth, 1LL*cnt * (cost1 + cost2));
+        long long ans = min(1LL * cnt * costBoth, 1LL * cnt * (cost1 + cost2));
 
         // apne aap cnt jitne items ka minm cost ke hisab se utha lega aur kya
 
@@ -31,7 +31,6 @@ public:
 
         // ab itne toh lene hi hai alag se toh inke liye shanti se cost1 and
         // cost2 wale bande nikal lo
-
 
         // like maan lo type 1 ke 15 items needed and type 2 ke 8 items needed
 
@@ -49,7 +48,8 @@ public:
         // and type2 ke 0 items chahiye cost2 ke hisab se lelo aur kya
 
         // accha scene ye hai ab ki minm need1 and need2 jitna chahiye tha, toh
-        // remaining ke liye bhi options rahenge
+        // aage agar extra khareed le toh dikkat nai koi bhi, toh remaining ke
+        // liye bhi options rahenge
 
         // like maan lo eg1 me hi, cost1=3 and cost2=2, and costboth=1, meaning
         // type 1 akele lenge toh 3 ka cost, type 2 akele lenge toh 2 ka cost,
@@ -61,10 +61,10 @@ public:
         // toh 7*1=7, haan yaha par type2 wale extra items aa gaye lekin overall
         // toh sasta pada na kaha 21 kaha 7 yehi logic laga denge
 
-
-        // toh remaining ke liye normal ke alava costboth wale ka bhi dekh lena since ho sakta vo better deal ho
-        ans += min(1LL*(need1 - cnt) * cost1, 1LL*(need1-cnt)*costBoth);
-        ans += min(1LL*(need2 - cnt) * cost2, 1LL*(need2-cnt)*costBoth);
+        // toh remaining ke liye normal ke alava costboth wale ka bhi dekh lena
+        // since ho sakta vo better deal ho
+        ans += min(1LL * (need1 - cnt) * cost1, 1LL * (need1 - cnt) * costBoth);
+        ans += min(1LL * (need2 - cnt) * cost2, 1LL * (need2 - cnt) * costBoth);
 
         // pura kaam khatam hone ke baad return krdo ans
         return ans;
