@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3376-longest-common-suffix-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3376-longest-common-suffix-queries) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3427-special-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3430-count-days-without-meetings) |
 | [3435-block-placement-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3435-block-placement-queries) |
@@ -1015,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2868-continuous-subarrays) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [4118-design-ride-sharing-system](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4118-design-ride-sharing-system) |
 ## Counting
 |  |
@@ -1318,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2846-robot-collisions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2846-robot-collisions) |
 | [3001-apply-operations-to-maximize-score](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3001-apply-operations-to-maximize-score) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3447-clear-digits) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
@@ -1332,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3001-apply-operations-to-maximize-score) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Greedy
 |  |
@@ -1787,6 +1791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-longest-substring-of-one-repeating-character](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3435-block-placement-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3435-block-placement-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3790-fruits-into-baskets-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3804-maximize-active-section-with-trade-ii) |
@@ -1851,6 +1856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-alternating-groups-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3483-alternating-groups-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -1873,6 +1879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2868-continuous-subarrays) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Rolling Hash
 |  |
 | ------- |
