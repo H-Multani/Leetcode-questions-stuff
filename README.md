@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3334-apple-redistribution-into-boxes](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3334-apple-redistribution-into-boxes) |
+| [3364-minimum-positive-sum-subarray](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3364-minimum-positive-sum-subarray) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3376-longest-common-suffix-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3376-longest-common-suffix-queries) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -1712,6 +1713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2721-sum-of-distances](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2721-sum-of-distances) |
 | [2915-count-of-interesting-subarrays](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2915-count-of-interesting-subarrays) |
 | [3031-construct-product-matrix](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3031-construct-product-matrix) |
+| [3364-minimum-positive-sum-subarray](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3364-minimum-positive-sum-subarray) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [3427-special-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3427-special-array-ii) |
@@ -1855,6 +1857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3364-minimum-positive-sum-subarray](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3364-minimum-positive-sum-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-alternating-groups-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3483-alternating-groups-ii) |
