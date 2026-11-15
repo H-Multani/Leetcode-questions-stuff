@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1500-count-largest-group) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1522-stone-game-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1522-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1617-stone-game-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1617-stone-game-iv) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1522-stone-game-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1522-stone-game-iii) |
 | [1524-string-matching-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1524-string-matching-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1091,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1466-jump-game-v](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1466-jump-game-v) |
 | [1522-stone-game-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1522-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1617-stone-game-iv](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1617-stone-game-iv) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1694,6 +1697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1477-product-of-the-last-k-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
