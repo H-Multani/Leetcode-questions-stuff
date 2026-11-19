@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2554-minimum-total-distance-traveled](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2554-minimum-total-distance-traveled) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1397,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2681-put-marbles-in-bags) |
