@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3919-network-recovery-pathways](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3919-network-recovery-pathways) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3934-coupon-code-validator](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3934-coupon-code-validator) |
+| [3934-smallest-unique-subarray](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3952-trionic-array-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3956-trionic-array-ii) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3885-count-special-triplets](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3885-count-special-triplets) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3934-coupon-code-validator](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3934-coupon-code-validator) |
+| [3934-smallest-unique-subarray](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3934-smallest-unique-subarray) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4055-longest-balanced-substring-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/4075-count-subarrays-with-majority-element-ii) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3790-fruits-into-baskets-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3919-network-recovery-pathways](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3919-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3934-smallest-unique-subarray) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3982-maximum-walls-destroyed-by-robots) |
@@ -1914,11 +1917,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3934-smallest-unique-subarray) |
 ## Brainteaser
 |  |
 | ------- |
@@ -2075,4 +2080,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
