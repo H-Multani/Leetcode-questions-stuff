@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3321-type-of-triangle) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3360-stone-removal-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3360-stone-removal-game) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1480,6 +1481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/2846-robot-collisions) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3360-stone-removal-game](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3360-stone-removal-game) |
 | [3447-clear-digits](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3447-clear-digits) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3651-transformed-array](https://github.com/H-Multani/Leetcode-questions-stuff/tree/master/3651-transformed-array) |
